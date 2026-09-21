@@ -1,0 +1,402 @@
+{
+ "ghilli-2004": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "chandramukhi-2005": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nanban-2012": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "baasha-1995": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "padayappa-1999": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "enthiran-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "thalapathi-1991": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nayakan-1987": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "thevar-magan-1992": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "indian-1996": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vishwaroopam-2013": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ghajini-2005": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaakha-kaakha-2003": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "singam-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "anniyan-2005": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "pithamagan-2003": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "asuran-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aadukalam-2011": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vada-chennai-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "thuppakki-2012": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "pokkiri-2007": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mersal-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaththi-2014": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "billa-2007": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "viswasam-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vedalam-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaithi-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vtv-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "alaipayuthey-2000": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vikram-vedha-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "thani-oruvan-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ratsasan-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "naanum-rowdy-dhaan-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "soodhu-kavvum-2013": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "oru-kal-oru-kannadi-2012": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "maanagaram-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "goli-soda-2014": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mundasupatti-2014": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "comali-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "boss-engira-bhaskaran-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "raja-rani-2013": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "madrasapattinam-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "meesaya-murukku-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sethupathi-2016": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "maragadha-naanayam-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kirumi-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "theeran-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "paruthiveeran-2007": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "oru-nalla-naal-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kanchana-2011": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "36-vayadhinile-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "magalir-mattum-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aramm-2017": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mookuthi-amman-2020": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaatrin-mozhi-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "raatchasi-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kanaa-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "game-over-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kolamaavu-kokila-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jackpot-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaatru-veliyidai-2017": {
+  "verdict": "reject",
+  "issue": "missing"
+ },
+ "sillu-karupatti-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ponmagal-vandhal-2020": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "devi-2016": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "netrikann-2021": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "subramaniapuram-2008": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "pariyerum-perumal-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "visaranai-2015": {
+  "verdict": "reject",
+  "issue": "missing"
+ },
+ "aaranya-kaandam-2011": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jigarthanda-2014": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaaka-muttai-2015": {
+  "verdict": "reject",
+  "issue": "missing"
+ },
+ "attakathi-2012": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "cuckoo-2014": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kumki-2012": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "peranbu-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "pudhupettai-2006": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "karnan-2021": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "iraivi-2016": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aandavan-kattalai-2016": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "angadi-theru-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "naan-kadavul-2009": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mynaa-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "autograph-2004": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kutrame-thandanai-2016": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "onaayum-aattukkuttiyum-2013": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "anjaathe-2008": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "yuddham-sei-2011": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "baba-2002": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sura-2010": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "lingaa-2014": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kochadaiiyaan-2014": {
+  "verdict": "reject",
+  "issue": "missing"
+ },
+ "puli-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "alex-pandian-2013": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vaalu-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aambala-2015": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sandakozhi-2-2018": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaappaan-2019": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "darbar-2020": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaththi-sandai-2016": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sakalakala-vallavan-2015": {
+  "verdict": "ok",
+  "issue": ""
+ }
+}

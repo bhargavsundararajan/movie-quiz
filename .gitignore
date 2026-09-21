@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Python (asset pipeline)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Transient fetch logs / scratch
+*.log
+data/asset_sources.json
+
+# Demo build intermediates
+data/demo_actors.json
+data/demo_posters.json
+
+# picker candidate scratch
+assets/candidates/
+data/candidates.json

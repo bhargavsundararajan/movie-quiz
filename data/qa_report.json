@@ -1,0 +1,65 @@
+{
+  "dropped": [
+    "darling-2015",
+    "kuruvi-2008"
+  ],
+  "recategorized": [],
+  "thin_cast": [
+    "aruvi-2017",
+    "penguin-2020",
+    "naachiyaar-2018",
+    "joker-2016",
+    "koozhangal-2021",
+    "kadaisi-vivasayi-2022",
+    "merku-thodarchi-malai-2018"
+  ],
+  "final_category_counts": {
+    "superstar": 30,
+    "midtier": 20,
+    "female_led": 15,
+    "character_driven": 22,
+    "troll_washout": 13
+  },
+  "notes": [
+    "Finalized to exactly 100 films at target counts S30/M20/F15/C22/T13.",
+    "Removed 7 thin_cast films (fewer than 6 verified clues) plus 1 redundant superstar entry (hero already had multiple superstar entries).",
+    "Added 8 films, each verified on Wikipedia to have at least 6 billed/recognizable cast members; clues authored per the clue formula with clue 6 = hero.",
+    "Fixed 4 non-ensemble films whose clue 6 did not match hero (1 hero-field correction verified against verified_casts.json; 3 name-form normalizations).",
+    "All validations pass: 100 films, 6 unique clues each drawn from real cast, category counts on target, every non-ensemble film's clue 6 == hero."
+  ],
+  "removed": {
+    "count": 8,
+    "ids": [
+      "aruvi-2017",
+      "penguin-2020",
+      "naachiyaar-2018",
+      "joker-2016",
+      "koozhangal-2021",
+      "kadaisi-vivasayi-2022",
+      "merku-thodarchi-malai-2018",
+      "petta-2019"
+    ]
+  },
+  "added": {
+    "count": 8,
+    "ids": [
+      "kanchana-2011",
+      "ponmagal-vandhal-2020",
+      "devi-2016",
+      "netrikann-2021",
+      "onaayum-aattukkuttiyum-2013",
+      "anjaathe-2008",
+      "yuddham-sei-2011",
+      "sakalakala-vallavan-2015"
+    ]
+  },
+  "last_clue_fixes": {
+    "count": 4,
+    "ids": [
+      "raatchasi-2019",
+      "visaranai-2015",
+      "attakathi-2012",
+      "cuckoo-2014"
+    ]
+  }
+}

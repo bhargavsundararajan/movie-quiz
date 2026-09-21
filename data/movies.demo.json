@@ -1,0 +1,67 @@
+{
+ "meta": {
+  "description": "Playtest set: the 3 films built this session.",
+  "clues_per_movie": 6,
+  "count": 3
+ },
+ "movies": [
+  {
+   "id": "ghilli-2004",
+   "title": "Ghilli",
+   "year": 2004,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "ghilli",
+    "gilli"
+   ],
+   "clues": [
+    "Tanikella Bharani",
+    "Dhamu",
+    "Prakash Raj",
+    "Ashish Vidyarthi",
+    "Trisha",
+    "Vijay"
+   ],
+   "poster_query": "Ghilli 2004 Tamil movie poster"
+  },
+  {
+   "id": "chandramukhi-2005",
+   "title": "Chandramukhi",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "chandramukhi"
+   ],
+   "clues": [
+    "Nassar",
+    "Vadivelu",
+    "Prabhu",
+    "Sonu Sood",
+    "Jyothika",
+    "Rajinikanth"
+   ],
+   "poster_query": "Chandramukhi 2005 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "nanban-2012",
+   "title": "Nanban",
+   "year": 2012,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "nanban"
+   ],
+   "clues": [
+    "Sathyaraj",
+    "S. J. Suryah",
+    "Srikanth",
+    "Jiiva",
+    "Ileana D'Cruz",
+    "Vijay"
+   ],
+   "poster_query": "Nanban 2012 Vijay Tamil movie poster"
+  }
+ ]
+}

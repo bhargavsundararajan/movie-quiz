@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sivaji-2007",
+    "title": "Sivaji",
+    "year": 2007,
+    "category": "original",
+    "hero": "Rajinikanth",
+    "answers": ["sivaji", "sivaji the boss", "sivaji: the boss"],
+    "clues": ["Manivannan", "Cochin Haneefa", "Vivek", "Suman", "Shriya Saran", "Rajinikanth"],
+    "poster_query": "Sivaji 2007 Tamil movie poster"
+  },
+  {
+    "id": "ponniyin-selvan-i-2022",
+    "title": "Ponniyin Selvan: I",
+    "year": 2022,
+    "category": "original",
+    "hero": "Ensemble",
+    "answers": ["ponniyin selvan", "ponniyin selvan 1", "ponniyin selvan i", "ps1", "ps-1", "ponniyin selvan: i", "ponniyin selvan part 1"],
+    "clues": ["Prakash Raj", "Nassar", "Ravi Mohan", "Aishwarya Rai Bachchan", "Karthi", "Vikram"],
+    "poster_query": "Ponniyin Selvan: I 2022 Tamil movie poster"
+  },
+  {
+    "id": "vikram-2022",
+    "title": "Vikram",
+    "year": 2022,
+    "category": "original",
+    "hero": "Kamal Haasan",
+    "answers": ["vikram"],
+    "clues": ["Narain", "Chemban Vinod Jose", "Fahadh Faasil", "Vijay Sethupathi", "Kalidas Jayaram", "Kamal Haasan"],
+    "poster_query": "Vikram 2022 Tamil movie poster"
+  },
+  {
+    "id": "mankatha-2011",
+    "title": "Mankatha",
+    "year": 2011,
+    "category": "original",
+    "hero": "Ajith Kumar",
+    "answers": ["mankatha"],
+    "clues": ["Jayaprakash", "Premji Amaren", "Vaibhav", "Arjun Sarja", "Trisha Krishnan", "Ajith Kumar"],
+    "poster_query": "Mankatha 2011 Tamil movie poster"
+  },
+  {
+    "id": "master-2021",
+    "title": "Master",
+    "year": 2021,
+    "category": "original",
+    "hero": "Vijay",
+    "answers": ["master"],
+    "clues": ["Shanthanu Bhagyaraj", "Andrea Jeremiah", "Arjun Das", "Vijay Sethupathi", "Malavika Mohanan", "Vijay"],
+    "poster_query": "Master 2021 Tamil movie poster"
+  },
+  {
+    "id": "super-deluxe-2019",
+    "title": "Super Deluxe",
+    "year": 2019,
+    "category": "original",
+    "hero": "Ensemble",
+    "answers": ["super deluxe"],
+    "clues": ["Bagavathi Perumal", "Mysskin", "Ramya Krishnan", "Fahadh Faasil", "Samantha Ruth Prabhu", "Vijay Sethupathi"],
+    "poster_query": "Super Deluxe 2019 Tamil movie poster"
+  },
+  {
+    "id": "mozhi-2007",
+    "title": "Mozhi",
+    "year": 2007,
+    "category": "original",
+    "hero": "Prithviraj Sukumaran",
+    "answers": ["mozhi"],
+    "clues": ["M. S. Bhaskar", "Brahmanandam", "Prakash Raj", "Swarnamalya", "Jyothika", "Prithviraj Sukumaran"],
+    "poster_query": "Mozhi 2007 Tamil movie poster"
+  },
+  {
+    "id": "m-kumaran-s-o-mahalakshmi-2004",
+    "title": "M. Kumaran S/O Mahalakshmi",
+    "year": 2004,
+    "category": "original",
+    "hero": "Ravi Mohan",
+    "answers": ["m. kumaran s/o mahalakshmi", "m kumaran son of mahalakshmi", "m kumaran s/o mahalakshmi", "m. kumaran son of mahalakshmi", "mkumaran son of mahalakshmi"],
+    "clues": ["Vivek", "Prakash Raj", "Livingston", "Nadhiya", "Asin", "Ravi Mohan"],
+    "poster_query": "M. Kumaran S/O Mahalakshmi 2004 Tamil movie poster"
+  },
+  {
+    "id": "love-today-2022",
+    "title": "Love Today",
+    "year": 2022,
+    "category": "original",
+    "hero": "Pradeep Ranganathan",
+    "answers": ["love today"],
+    "clues": ["Sathyaraj", "Radhika Sarathkumar", "Yogi Babu", "Raveena Ravi", "Ivana", "Pradeep Ranganathan"],
+    "poster_query": "Love Today 2022 Tamil movie poster"
+  },
+  {
+    "id": "maara-2021",
+    "title": "Maara",
+    "year": 2021,
+    "category": "original",
+    "hero": "R. Madhavan",
+    "answers": ["maara"],
+    "clues": ["M. S. Bhaskar", "Kishore", "Guru Somasundaram", "Abhirami", "Shraddha Srinath", "R. Madhavan"],
+    "poster_query": "Maara 2021 Tamil movie poster"
+  },
+  {
+    "id": "maamannan-2023",
+    "title": "Maamannan",
+    "year": 2023,
+    "category": "original",
+    "hero": "Udhayanidhi Stalin",
+    "answers": ["maamannan", "mamannan"],
+    "clues": ["Lal", "Azhagam Perumal", "Fahadh Faasil", "Vadivelu", "Keerthy Suresh", "Udhayanidhi Stalin"],
+    "poster_query": "Maamannan 2023 Tamil movie poster"
+  },
+  {
+    "id": "naduvula-konjam-pakkatha-kaanom-2012",
+    "title": "Naduvula Konjam Pakkatha Kaanom",
+    "year": 2012,
+    "category": "original",
+    "hero": "Vijay Sethupathi",
+    "answers": ["naduvula konjam pakkatha kaanom", "nkpk", "naduvula konjam pakkatha kanom"],
+    "clues": ["Bagavathi Perumal", "Rajkumar", "Gayathrie", "Vijay Sethupathi"],
+    "poster_query": "Naduvula Konjam Pakkatha Kaanom 2012 Tamil movie poster"
+  },
+  {
+    "id": "michael-madana-kama-rajan-1990",
+    "title": "Michael Madana Kama Rajan",
+    "year": 1990,
+    "category": "original",
+    "hero": "Kamal Haasan",
+    "answers": ["michael madana kama rajan", "michael madana kamarajan", "mmkr"],
+    "clues": ["Delhi Ganesh", "Nagesh", "Nassar", "Manorama", "Urvashi", "Kamal Haasan"],
+    "poster_query": "Michael Madana Kama Rajan 1990 Tamil movie poster"
+  },
+  {
+    "id": "nala-damayanthi-2003",
+    "title": "Nala Damayanthi",
+    "year": 2003,
+    "category": "original",
+    "hero": "R. Madhavan",
+    "answers": ["nala damayanthi", "nala damayanti"],
+    "clues": ["Manobala", "Delhi Ganesh", "Sriman", "Anu Hasan", "Geetu Mohandas", "R. Madhavan"],
+    "poster_query": "Nala Damayanthi 2003 Tamil movie poster"
+  },
+  {
+    "id": "saamy-2003",
+    "title": "Saamy",
+    "year": 2003,
+    "category": "original",
+    "hero": "Vikram",
+    "answers": ["saamy", "samy", "saami"],
+    "clues": ["Delhi Ganesh", "Ramesh Khanna", "Vivek", "Kota Srinivasa Rao", "Trisha Krishnan", "Vikram"],
+    "poster_query": "Saamy 2003 Tamil movie poster"
+  },
+  {
+    "id": "villu-2009",
+    "title": "Villu",
+    "year": 2009,
+    "category": "original",
+    "hero": "Vijay",
+    "answers": ["villu"],
+    "clues": ["Anandaraj", "Sriman", "Vadivelu", "Prakash Raj", "Nayanthara", "Vijay"],
+    "poster_query": "Villu 2009 Tamil movie poster"
+  }
+]

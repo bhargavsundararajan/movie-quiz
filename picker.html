@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Actor photo picker</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin:0; background:#08080a; color:#f4f4f6; font-family:system-ui,sans-serif; }
+  header { position:sticky; top:0; background:#111; padding:12px 16px; border-bottom:2px solid #e50914; z-index:5; }
+  h1 { margin:0; font-size:1.1rem; }
+  .count { color:#9a9aa5; font-size:.9rem; margin-top:4px; }
+  .actor { padding:14px 16px; border-bottom:1px solid #1e1e26; }
+  .actor.done { opacity:.4; }
+  .aname { font-weight:600; margin-bottom:8px; }
+  .aname .tag { font-size:.72rem; color:#37d67a; margin-left:8px; }
+  .opts { display:flex; gap:10px; flex-wrap:wrap; }
+  .opts img, .none { width:150px; height:150px; border-radius:10px; border:3px solid #2c2c36; cursor:pointer; object-fit:cover; background:#15151a; }
+  .opts img:hover { border-color:#37d67a; }
+  .none { display:flex; align-items:center; justify-content:center; text-align:center; color:#9a9aa5; font-size:.85rem; }
+  .none:hover { border-color:#e50914; color:#ff9aa0; }
+  .empty { color:#ff9aa0; font-size:.85rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Pick the correct photo for each actor</h1>
+  <div class="count" id="count"></div>
+</header>
+<div id="list"></div>
+<script type="module">
+const cands = await fetch('data/candidates.json').then(r=>r.json());
+const verdicts = await fetch('data/actor_verdicts.json').then(r=>r.json()).catch(()=> ({}));
+const list = document.getElementById('list');
+const slugs = Object.keys(cands);
+let done = new Set(slugs.filter(s => verdicts[s]?.issue === 'user-picked'));
+
+function updateCount(){
+  document.getElementById('count').textContent = `${done.size}/${slugs.length} decided`;
+}
+async function post(path, body){
+  const r = await fetch(path, {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body)});
+  return r.ok;
+}
+function markDone(el, slug){ el.classList.add('done'); done.add(slug); updateCount(); }
+
+for(const slug of slugs){
+  const {name, options} = cands[slug];
+  const box = document.createElement('div'); box.className='actor'; box.id='a-'+slug;
+  if(done.has(slug)) box.classList.add('done');
+  const opts = options.map(o =>
+    `<img src="assets/candidates/${slug}/${o.i}.jpg?v=1" data-i="${o.i}" title="${o.title.replace(/"/g,'')}">`
+  ).join('');
+  box.innerHTML = `<div class="aname">${name}${done.has(slug)?' <span class="tag">✓ picked</span>':''}</div>
+    <div class="opts">${options.length?opts:'<span class="empty">No candidates found — needs a manual image URL.</span>'}
+    <div class="none" data-none>None good ✗</div></div>`;
+  box.querySelectorAll('.opts img').forEach(img => img.onclick = async () => {
+    if(await post('/pick', {slug, index:+img.dataset.i})){
+      box.querySelectorAll('.opts img').forEach(x=>x.style.borderColor='#2c2c36');
+      img.style.borderColor='#37d67a';
+      box.querySelector('.aname').innerHTML = `${name} <span class="tag">✓ picked</span>`;
+      markDone(box, slug);
+    }
+  });
+  box.querySelector('[data-none]').onclick = async () => {
+    if(await post('/none', {slug})){ box.querySelector('.aname').innerHTML = `${name} <span class="tag" style="color:#ff9aa0">✗ needs manual</span>`; markDone(box, slug); }
+  };
+  list.append(box);
+}
+updateCount();
+</script>
+</body>
+</html>

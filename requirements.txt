@@ -1,0 +1,4 @@
+# Python deps for the asset pipeline (scripts/) and data tooling.
+# Install into a repo-local venv:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+ddgs        # DuckDuckGo image search (actor photo / poster fallback)
+Pillow      # image decode + cover-crop to uniform 700x700

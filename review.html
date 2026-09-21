@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Actor photo review</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin:0; background:#08080a; color:#f4f4f6; font-family:system-ui,sans-serif; }
+  header { position:sticky; top:0; background:#111; padding:12px 16px; border-bottom:2px solid #e50914; z-index:5; }
+  h1 { margin:0 0 8px; font-size:1.2rem; }
+  .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  button { background:#1e1e26; color:#f4f4f6; border:1px solid #2c2c36; border-radius:8px; padding:7px 12px; cursor:pointer; }
+  button.active { border-color:#e50914; }
+  .count { color:#9a9aa5; font-size:.85rem; }
+  .warn { color:#ff9aa0; font-size:.85rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:12px; padding:16px; }
+  figure { margin:0; background:#15151a; border-radius:10px; overflow:hidden; border:2px solid transparent; }
+  figure.ok { border-color:#37d67a; } figure.reject { border-color:#e50914; }
+  figure img { width:100%; aspect-ratio:1/1; object-fit:cover; display:block; background:#222; }
+  figcaption { padding:6px 8px; font-size:.82rem; }
+  .badge { display:inline-block; font-size:.66rem; padding:1px 6px; border-radius:999px; margin-top:3px; }
+  .b-unsure{background:#4a3f00;color:#f6c945} .b-reject{background:#4a1113;color:#ff9aa0} .b-ok{background:#123a22;color:#37d67a}
+  .btns { display:flex; gap:6px; padding:0 8px 8px; }
+  .btns button { flex:1; padding:4px 0; }
+  .b-yes.on{background:#123a22;border-color:#37d67a;color:#37d67a} .b-no.on{background:#4a1113;border-color:#e50914;color:#ff9aa0}
+</style>
+</head>
+<body>
+<header>
+  <h1>Actor photo review — ✓ correct / ✗ wrong (saved to server)</h1>
+  <div class="bar">
+    <button data-f="review" class="active">Needs review</button>
+    <button data-f="unsure">Unsure</button>
+    <button data-f="reject">Reject</button>
+    <button data-f="ok">OK</button>
+    <button data-f="all">All</button>
+    <span class="count" id="count"></span>
+    <span class="warn" id="warn"></span>
+  </div>
+</header>
+<div class="grid" id="grid"></div>
+<script type="module">
+const T = Date.now();
+const writable = location.port === '8090'; // only the picker server accepts writes
+const actors = await fetch('data/actors_list.json?t='+T).then(r=>r.json());
+const verdicts = await fetch('data/actor_verdicts.json?t='+T).then(r=>r.json()).catch(()=> ({}));
+document.getElementById('warn').textContent = writable ? '' : '⚠ open via http://localhost:8090/review.html to save decisions';
+const grid = document.getElementById('grid');
+const V = s => (verdicts[s]?.verdict) || 'ok';
+let filter = 'review';
+const needsReview = s => V(s)==='unsure' || V(s)==='reject';
+const match = s => filter==='all' ? true : filter==='review' ? needsReview(s) : V(s)===filter;
+
+async function decide(slug, verdict){
+  if(writable){
+    try { await fetch(verdict==='ok'?'/approve':'/reject', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({slug})}); }
+    catch { /* keep UI change even if save fails */ }
+  }
+  verdicts[slug] = { verdict, issue: verdict==='ok'?'user-ok':'user-wrong' };
+  render();
+}
+function counts(){
+  const c={ok:0,unsure:0,reject:0};
+  for(const a of actors) c[V(a.slug)] = (c[V(a.slug)]||0)+1;
+  document.getElementById('count').textContent =
+    `${actors.filter(a=>match(a.slug)).length} shown · ok ${c.ok} · unsure ${c.unsure} · reject ${c.reject}`;
+}
+function render(){
+  grid.innerHTML=''; counts();
+  for(const a of actors.filter(a=>match(a.slug))){
+    const v=V(a.slug), s=a.slug;
+    const fig=document.createElement('figure');
+    if(v==='ok') fig.classList.add('ok'); else if(v==='reject') fig.classList.add('reject');
+    fig.innerHTML = `<img loading="lazy" src="assets/actors/${s}.jpg?v=${T}" onerror="this.style.opacity=.15">
+      <figcaption>${a.name}<br><span class="badge b-${v}">${v}</span></figcaption>
+      <div class="btns"><button class="b-yes ${v==='ok'?'on':''}">✓ ok</button><button class="b-no ${v==='reject'?'on':''}">✗ wrong</button></div>`;
+    fig.querySelector('.b-yes').onclick=()=>decide(s,'ok');
+    fig.querySelector('.b-no').onclick=()=>decide(s,'reject');
+    grid.append(fig);
+  }
+}
+document.querySelectorAll('button[data-f]').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('button[data-f]').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active'); filter=b.dataset.f; render();
+});
+render();
+</script>
+</body>
+</html>

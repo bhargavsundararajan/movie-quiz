@@ -1,0 +1,2009 @@
+{
+ "meta": {
+  "description": "Guess-the-Tamil-Movie repository. Excludes the 16 films in the original Games.pptx.",
+  "clue_formula": "clues 1-2 = broad character artists (not iconic for this film); clues 3-4 = actors famous FOR this film; clues 5-6 = superstars/leads (clue 6 = the hero)",
+  "clues_per_movie": 6,
+  "verified": true,
+  "count": 100,
+  "category_targets": {
+   "superstar": 30,
+   "midtier": 20,
+   "female_led": 15,
+   "character_driven": 22,
+   "troll_washout": 13
+  }
+ },
+ "movies": [
+  {
+   "id": "ghilli-2004",
+   "title": "Ghilli",
+   "year": 2004,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "ghilli",
+    "gilli"
+   ],
+   "clues": [
+    "Tanikella Bharani",
+    "Dhamu",
+    "Prakash Raj",
+    "Ashish Vidyarthi",
+    "Trisha",
+    "Vijay"
+   ],
+   "poster_query": "Ghilli 2004 Tamil movie poster"
+  },
+  {
+   "id": "chandramukhi-2005",
+   "title": "Chandramukhi",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "chandramukhi"
+   ],
+   "clues": [
+    "Nassar",
+    "Vadivelu",
+    "Prabhu",
+    "Sonu Sood",
+    "Jyothika",
+    "Rajinikanth"
+   ],
+   "poster_query": "Chandramukhi 2005 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "nanban-2012",
+   "title": "Nanban",
+   "year": 2012,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "nanban"
+   ],
+   "clues": [
+    "Sathyaraj",
+    "S. J. Suryah",
+    "Srikanth",
+    "Jiiva",
+    "Ileana D'Cruz",
+    "Vijay"
+   ],
+   "poster_query": "Nanban 2012 Vijay Tamil movie poster"
+  },
+  {
+   "id": "baasha-1995",
+   "title": "Baasha",
+   "year": 1995,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "baasha",
+    "basha"
+   ],
+   "clues": [
+    "Janagaraj",
+    "Vijayakumar",
+    "Raghuvaran",
+    "Anandaraj",
+    "Nagma",
+    "Rajinikanth"
+   ],
+   "poster_query": "Baasha 1995 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "padayappa-1999",
+   "title": "Padayappa",
+   "year": 1999,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "padayappa"
+   ],
+   "clues": [
+    "Senthil",
+    "Radha Ravi",
+    "Ramya Krishnan",
+    "Soundarya",
+    "Sivaji Ganesan",
+    "Rajinikanth"
+   ],
+   "poster_query": "Padayappa 1999 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "enthiran-2010",
+   "title": "Enthiran",
+   "year": 2010,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "enthiran",
+    "robot",
+    "endhiran"
+   ],
+   "clues": [
+    "Santhanam",
+    "Cochin Haneefa",
+    "Danny Denzongpa",
+    "Karunas",
+    "Aishwarya Rai Bachchan",
+    "Rajinikanth"
+   ],
+   "poster_query": "Enthiran 2010 Rajinikanth robot Tamil movie poster"
+  },
+  {
+   "id": "thalapathi-1991",
+   "title": "Thalapathi",
+   "year": 1991,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "thalapathi",
+    "dalapathi"
+   ],
+   "clues": [
+    "Nagesh",
+    "Jaishankar",
+    "Amrish Puri",
+    "Arvind Swamy",
+    "Mammootty",
+    "Rajinikanth"
+   ],
+   "poster_query": "Thalapathi 1991 Rajinikanth Mammootty Tamil movie poster"
+  },
+  {
+   "id": "nayakan-1987",
+   "title": "Nayakan",
+   "year": 1987,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "nayakan",
+    "nayagan"
+   ],
+   "clues": [
+    "Janagaraj",
+    "Delhi Ganesh",
+    "Nassar",
+    "Nizhalgal Ravi",
+    "Saranya Ponvannan",
+    "Kamal Haasan"
+   ],
+   "poster_query": "Nayakan 1987 Kamal Haasan Tamil movie poster"
+  },
+  {
+   "id": "thevar-magan-1992",
+   "title": "Thevar Magan",
+   "year": 1992,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "thevar magan",
+    "thevarmagan"
+   ],
+   "clues": [
+    "Vadivelu",
+    "Sangili Murugan",
+    "Nassar",
+    "Revathi",
+    "Sivaji Ganesan",
+    "Kamal Haasan"
+   ],
+   "poster_query": "Thevar Magan 1992 Kamal Haasan Sivaji Tamil movie poster"
+  },
+  {
+   "id": "indian-1996",
+   "title": "Indian",
+   "year": 1996,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "indian",
+    "indhian"
+   ],
+   "clues": [
+    "Goundamani",
+    "Senthil",
+    "Sukanya",
+    "Nedumudi Venu",
+    "Manisha Koirala",
+    "Kamal Haasan"
+   ],
+   "poster_query": "Indian 1996 Kamal Haasan Tamil movie poster"
+  },
+  {
+   "id": "vishwaroopam-2013",
+   "title": "Vishwaroopam",
+   "year": 2013,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "vishwaroopam",
+    "viswaroopam"
+   ],
+   "clues": [
+    "Nassar",
+    "Andrea Jeremiah",
+    "Rahul Bose",
+    "Jaideep Ahlawat",
+    "Pooja Kumar",
+    "Kamal Haasan"
+   ],
+   "poster_query": "Vishwaroopam 2013 Kamal Haasan Tamil movie poster"
+  },
+  {
+   "id": "ghajini-2005",
+   "title": "Ghajini",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Suriya",
+   "answers": [
+    "ghajini",
+    "gajini"
+   ],
+   "clues": [
+    "Manobala",
+    "Sathyan",
+    "Pradeep Rawat",
+    "Riyaz Khan",
+    "Asin",
+    "Suriya"
+   ],
+   "poster_query": "Ghajini 2005 Suriya Tamil movie poster"
+  },
+  {
+   "id": "kaakha-kaakha-2003",
+   "title": "Kaakha Kaakha",
+   "year": 2003,
+   "category": "superstar",
+   "hero": "Suriya",
+   "answers": [
+    "kaakha kaakha",
+    "kaka kaka",
+    "kaakha"
+   ],
+   "clues": [
+    "Manobala",
+    "Devadarshini",
+    "Daniel Balaji",
+    "Jeevan",
+    "Jyothika",
+    "Suriya"
+   ],
+   "poster_query": "Kaakha Kaakha 2003 Suriya Tamil movie poster"
+  },
+  {
+   "id": "singam-2010",
+   "title": "Singam",
+   "year": 2010,
+   "category": "superstar",
+   "hero": "Suriya",
+   "answers": [
+    "singam",
+    "singham"
+   ],
+   "clues": [
+    "Vivek",
+    "Radha Ravi",
+    "Prakash Raj",
+    "Nassar",
+    "Anushka Shetty",
+    "Suriya"
+   ],
+   "poster_query": "Singam 2010 Suriya Tamil movie poster"
+  },
+  {
+   "id": "anniyan-2005",
+   "title": "Anniyan",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Vikram",
+   "answers": [
+    "anniyan",
+    "aniyan"
+   ],
+   "clues": [
+    "Vivek",
+    "Charle",
+    "Prakash Raj",
+    "Nedumudi Venu",
+    "Sadha",
+    "Vikram"
+   ],
+   "poster_query": "Anniyan 2005 Vikram Tamil movie poster"
+  },
+  {
+   "id": "pithamagan-2003",
+   "title": "Pithamagan",
+   "year": 2003,
+   "category": "superstar",
+   "hero": "Vikram",
+   "answers": [
+    "pithamagan",
+    "pithamahan"
+   ],
+   "clues": [
+    "Manobala",
+    "Karunas",
+    "Laila",
+    "Sangeetha",
+    "Suriya",
+    "Vikram"
+   ],
+   "poster_query": "Pithamagan 2003 Vikram Suriya Tamil movie poster"
+  },
+  {
+   "id": "asuran-2019",
+   "title": "Asuran",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Dhanush",
+   "answers": [
+    "asuran"
+   ],
+   "clues": [
+    "Aadukalam Naren",
+    "Balaji Sakthivel",
+    "Pasupathy",
+    "Prakash Raj",
+    "Manju Warrier",
+    "Dhanush"
+   ],
+   "poster_query": "Asuran 2019 Dhanush Tamil movie poster"
+  },
+  {
+   "id": "aadukalam-2011",
+   "title": "Aadukalam",
+   "year": 2011,
+   "category": "superstar",
+   "hero": "Dhanush",
+   "answers": [
+    "aadukalam",
+    "adukalam"
+   ],
+   "clues": [
+    "Jayaprakash",
+    "Aadukalam Murugadoss",
+    "Kishore",
+    "V. I. S. Jayapalan",
+    "Taapsee Pannu",
+    "Dhanush"
+   ],
+   "poster_query": "Aadukalam 2011 Dhanush Tamil movie poster"
+  },
+  {
+   "id": "vada-chennai-2018",
+   "title": "Vada Chennai",
+   "year": 2018,
+   "category": "superstar",
+   "hero": "Dhanush",
+   "answers": [
+    "vada chennai",
+    "vadachennai"
+   ],
+   "clues": [
+    "Radha Ravi",
+    "Andrea Jeremiah",
+    "Ameer",
+    "Samuthirakani",
+    "Aishwarya Rajesh",
+    "Dhanush"
+   ],
+   "poster_query": "Vada Chennai 2018 Dhanush Tamil movie poster"
+  },
+  {
+   "id": "thuppakki-2012",
+   "title": "Thuppakki",
+   "year": 2012,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "thuppakki",
+    "thuppaki"
+   ],
+   "clues": [
+    "Manobala",
+    "Sathyan",
+    "Vidyut Jammwal",
+    "Jayaram",
+    "Kajal Aggarwal",
+    "Vijay"
+   ],
+   "poster_query": "Thuppakki 2012 Vijay Tamil movie poster"
+  },
+  {
+   "id": "pokkiri-2007",
+   "title": "Pokkiri",
+   "year": 2007,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "pokkiri",
+    "pokiri"
+   ],
+   "clues": [
+    "Vadivelu",
+    "Anandaraj",
+    "Prakash Raj",
+    "Napoleon",
+    "Asin",
+    "Vijay"
+   ],
+   "poster_query": "Pokkiri 2007 Vijay Tamil movie poster"
+  },
+  {
+   "id": "mersal-2017",
+   "title": "Mersal",
+   "year": 2017,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "mersal"
+   ],
+   "clues": [
+    "Vadivelu",
+    "Kovai Sarala",
+    "S. J. Suryah",
+    "Nithya Menen",
+    "Samantha Ruth Prabhu",
+    "Vijay"
+   ],
+   "poster_query": "Mersal 2017 Vijay Tamil movie poster"
+  },
+  {
+   "id": "kaththi-2014",
+   "title": "Kaththi",
+   "year": 2014,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "kaththi",
+    "kathi"
+   ],
+   "clues": [
+    "Sathish",
+    "Jeeva Ravi",
+    "Neil Nitin Mukesh",
+    "Tota Roy Chowdhury",
+    "Samantha Ruth Prabhu",
+    "Vijay"
+   ],
+   "poster_query": "Kaththi 2014 Vijay Tamil movie poster"
+  },
+  {
+   "id": "billa-2007",
+   "title": "Billa",
+   "year": 2007,
+   "category": "superstar",
+   "hero": "Ajith Kumar",
+   "answers": [
+    "billa"
+   ],
+   "clues": [
+    "Santhanam",
+    "John Vijay",
+    "Prabhu",
+    "Adithya Menon",
+    "Nayanthara",
+    "Ajith Kumar"
+   ],
+   "poster_query": "Billa 2007 Ajith Tamil movie poster"
+  },
+  {
+   "id": "viswasam-2019",
+   "title": "Viswasam",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Ajith Kumar",
+   "answers": [
+    "viswasam",
+    "viswaasam"
+   ],
+   "clues": [
+    "Vivek",
+    "Thambi Ramaiah",
+    "Jagapathi Babu",
+    "Anikha Surendran",
+    "Nayanthara",
+    "Ajith Kumar"
+   ],
+   "poster_query": "Viswasam 2019 Ajith Tamil movie poster"
+  },
+  {
+   "id": "vedalam-2015",
+   "title": "Vedalam",
+   "year": 2015,
+   "category": "superstar",
+   "hero": "Ajith Kumar",
+   "answers": [
+    "vedalam",
+    "vedhalam"
+   ],
+   "clues": [
+    "Soori",
+    "Rajendran",
+    "Rahul Dev",
+    "Lakshmi Menon",
+    "Shruti Haasan",
+    "Ajith Kumar"
+   ],
+   "poster_query": "Vedalam 2015 Ajith Tamil movie poster"
+  },
+  {
+   "id": "kaithi-2019",
+   "title": "Kaithi",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Karthi",
+   "answers": [
+    "kaithi"
+   ],
+   "clues": [
+    "George Maryan",
+    "Hareesh Peradi",
+    "Harish Uthaman",
+    "Arjun Das",
+    "Narain",
+    "Karthi"
+   ],
+   "poster_query": "Kaithi 2019 Karthi Tamil movie poster"
+  },
+  {
+   "id": "vtv-2010",
+   "title": "Vinnaithaandi Varuvaayaa",
+   "year": 2010,
+   "category": "superstar",
+   "hero": "Silambarasan",
+   "answers": [
+    "vinnaithaandi varuvaayaa",
+    "vtv",
+    "vinnaithandi varuvaya"
+   ],
+   "clues": [
+    "Kitty",
+    "VTV Ganesh",
+    "K. S. Ravikumar",
+    "Babu Antony",
+    "Trisha",
+    "Silambarasan"
+   ],
+   "poster_query": "Vinnaithaandi Varuvaayaa 2010 Simbu Trisha Tamil movie poster"
+  },
+  {
+   "id": "alaipayuthey-2000",
+   "title": "Alaipayuthey",
+   "year": 2000,
+   "category": "superstar",
+   "hero": "Madhavan",
+   "answers": [
+    "alaipayuthey",
+    "alaipayuthe"
+   ],
+   "clues": [
+    "Vivek",
+    "Sukumari",
+    "Jayasudha",
+    "Swarnamalya",
+    "Shalini",
+    "Madhavan"
+   ],
+   "poster_query": "Alaipayuthey 2000 Madhavan Shalini Tamil movie poster"
+  },
+  {
+   "id": "vikram-vedha-2017",
+   "title": "Vikram Vedha",
+   "year": 2017,
+   "category": "superstar",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "vikram vedha",
+    "vikramvedha"
+   ],
+   "clues": [
+    "Hareesh Peradi",
+    "Vivek Prasanna",
+    "Shraddha Srinath",
+    "Kathir",
+    "Madhavan",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Vikram Vedha 2017 Madhavan Vijay Sethupathi Tamil movie poster"
+  },
+  {
+   "id": "thani-oruvan-2015",
+   "title": "Thani Oruvan",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "Jayam Ravi",
+   "answers": [
+    "thani oruvan",
+    "thanioruvan"
+   ],
+   "clues": [
+    "Thambi Ramaiah",
+    "Nassar",
+    "Ganesh Venkatraman",
+    "Arvind Swamy",
+    "Nayanthara",
+    "Jayam Ravi"
+   ],
+   "poster_query": "Thani Oruvan 2015 Jayam Ravi Arvind Swamy Tamil movie poster"
+  },
+  {
+   "id": "ratsasan-2018",
+   "title": "Ratsasan",
+   "year": 2018,
+   "category": "midtier",
+   "hero": "Vishnu Vishal",
+   "answers": [
+    "ratsasan",
+    "rakshasan"
+   ],
+   "clues": [
+    "Radha Ravi",
+    "Kaali Venkat",
+    "Nizhalgal Ravi",
+    "Munishkanth",
+    "Amala Paul",
+    "Vishnu Vishal"
+   ],
+   "poster_query": "Ratsasan 2018 Vishnu Vishal Tamil movie poster"
+  },
+  {
+   "id": "naanum-rowdy-dhaan-2015",
+   "title": "Naanum Rowdy Dhaan",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "naanum rowdy dhaan",
+    "nrd"
+   ],
+   "clues": [
+    "Rajendran",
+    "Mansoor Ali Khan",
+    "Anandaraj",
+    "RJ Balaji",
+    "Nayanthara",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Naanum Rowdy Dhaan 2015 Vijay Sethupathi Nayanthara Tamil movie poster"
+  },
+  {
+   "id": "soodhu-kavvum-2013",
+   "title": "Soodhu Kavvum",
+   "year": 2013,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "soodhu kavvum",
+    "sudhu kavvum"
+   ],
+   "clues": [
+    "M. S. Bhaskar",
+    "Radha Ravi",
+    "Bobby Simha",
+    "Karunakaran",
+    "Sanchita Shetty",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Soodhu Kavvum 2013 Vijay Sethupathi Tamil movie poster"
+  },
+  {
+   "id": "oru-kal-oru-kannadi-2012",
+   "title": "Oru Kal Oru Kannadi",
+   "year": 2012,
+   "category": "midtier",
+   "hero": "Udhayanidhi Stalin",
+   "answers": [
+    "oru kal oru kannadi",
+    "okok"
+   ],
+   "clues": [
+    "Saranya Ponvannan",
+    "Mahanadi Shankar",
+    "Sayaji Shinde",
+    "Santhanam",
+    "Hansika Motwani",
+    "Udhayanidhi Stalin"
+   ],
+   "poster_query": "Oru Kal Oru Kannadi 2012 Tamil movie poster"
+  },
+  {
+   "id": "maanagaram-2017",
+   "title": "Maanagaram",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Sundeep Kishan",
+   "answers": [
+    "maanagaram",
+    "managaram"
+   ],
+   "clues": [
+    "Charle",
+    "Munishkanth",
+    "Sri Natarajan",
+    "Madhusudhan Rao",
+    "Regina Cassandra",
+    "Sundeep Kishan"
+   ],
+   "poster_query": "Maanagaram 2017 Tamil movie poster"
+  },
+  {
+   "id": "goli-soda-2014",
+   "title": "Goli Soda",
+   "year": 2014,
+   "category": "midtier",
+   "hero": "Ensemble",
+   "answers": [
+    "goli soda",
+    "golisoda"
+   ],
+   "clues": [
+    "Sujatha Sivakumar",
+    "Imman Annachi",
+    "Sampath Ram",
+    "Madhusudhan Rao",
+    "Kishore DS",
+    "T. Rajendar"
+   ],
+   "poster_query": "Goli Soda 2014 Tamil movie poster"
+  },
+  {
+   "id": "mundasupatti-2014",
+   "title": "Mundasupatti",
+   "year": 2014,
+   "category": "midtier",
+   "hero": "Vishnu Vishal",
+   "answers": [
+    "mundasupatti",
+    "mundaasupatti"
+   ],
+   "clues": [
+    "Kaali Venkat",
+    "Munishkanth",
+    "Anandaraj",
+    "Lollu Sabha Manohar",
+    "Nandita Swetha",
+    "Vishnu Vishal"
+   ],
+   "poster_query": "Mundasupatti 2014 Tamil movie poster"
+  },
+  {
+   "id": "comali-2019",
+   "title": "Comali",
+   "year": 2019,
+   "category": "midtier",
+   "hero": "Jayam Ravi",
+   "answers": [
+    "comali",
+    "komali"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Aadukalam Naren",
+    "K. S. Ravikumar",
+    "Ponnambalam",
+    "Kajal Aggarwal",
+    "Jayam Ravi"
+   ],
+   "poster_query": "Comali 2019 Jayam Ravi Tamil movie poster"
+  },
+  {
+   "id": "boss-engira-bhaskaran-2010",
+   "title": "Boss Engira Bhaskaran",
+   "year": 2010,
+   "category": "midtier",
+   "hero": "Arya",
+   "answers": [
+    "boss engira bhaskaran",
+    "beb"
+   ],
+   "clues": [
+    "Santhanam",
+    "Rajendran",
+    "Subbu Panchu",
+    "Chitra Lakshmanan",
+    "Nayanthara",
+    "Arya"
+   ],
+   "poster_query": "Boss Engira Bhaskaran 2010 Arya Tamil movie poster"
+  },
+  {
+   "id": "raja-rani-2013",
+   "title": "Raja Rani",
+   "year": 2013,
+   "category": "midtier",
+   "hero": "Arya",
+   "answers": [
+    "raja rani",
+    "rajarani"
+   ],
+   "clues": [
+    "Santhanam",
+    "Manobala",
+    "Jai",
+    "Sathyaraj",
+    "Nayanthara",
+    "Arya"
+   ],
+   "poster_query": "Raja Rani 2013 Arya Nayanthara Tamil movie poster"
+  },
+  {
+   "id": "madrasapattinam-2010",
+   "title": "Madrasapattinam",
+   "year": 2010,
+   "category": "midtier",
+   "hero": "Arya",
+   "answers": [
+    "madrasapattinam",
+    "madras pattinam"
+   ],
+   "clues": [
+    "Nassar",
+    "Cochin Haneefa",
+    "Alexx O'Nell",
+    "Bala Singh",
+    "Amy Jackson",
+    "Arya"
+   ],
+   "poster_query": "Madrasapattinam 2010 Arya Tamil movie poster"
+  },
+  {
+   "id": "meesaya-murukku-2017",
+   "title": "Meesaya Murukku",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Hiphop Tamizha",
+   "answers": [
+    "meesaya murukku",
+    "meesaya murrukku"
+   ],
+   "clues": [
+    "Vivek",
+    "Ma Ka Pa Anand",
+    "RJ Vigneshkanth",
+    "Parithabangal Gopi–Sudhakar",
+    "Aathmika",
+    "Hiphop Tamizha"
+   ],
+   "poster_query": "Meesaya Murukku 2017 Tamil movie poster"
+  },
+  {
+   "id": "sethupathi-2016",
+   "title": "Sethupathi",
+   "year": 2016,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "sethupathi"
+   ],
+   "clues": [
+    "Mime Gopi",
+    "Redin Kingsley",
+    "Vela Ramamoorthy",
+    "Vivek Prasanna",
+    "Remya Nambessan",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Sethupathi 2016 Vijay Sethupathi Tamil movie poster"
+  },
+  {
+   "id": "maragadha-naanayam-2017",
+   "title": "Maragadha Naanayam",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Aadhi",
+   "answers": [
+    "maragadha naanayam",
+    "maragatha naanayam"
+   ],
+   "clues": [
+    "M. S. Bhaskar",
+    "Kaali Venkat",
+    "Anandaraj",
+    "Brahmanandam",
+    "Nikki Galrani",
+    "Aadhi"
+   ],
+   "poster_query": "Maragadha Naanayam 2017 Tamil movie poster"
+  },
+  {
+   "id": "kirumi-2015",
+   "title": "Kirumi",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "Kathir",
+   "answers": [
+    "kirumi"
+   ],
+   "clues": [
+    "Charle",
+    "Yogi Babu",
+    "G. Marimuthu",
+    "Thennavan",
+    "Reshmi Menon",
+    "Kathir"
+   ],
+   "poster_query": "Kirumi 2015 Kathir Tamil movie poster"
+  },
+  {
+   "id": "theeran-2017",
+   "title": "Theeran Adhigaaram Ondru",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Karthi",
+   "answers": [
+    "theeran adhigaaram ondru",
+    "theeran"
+   ],
+   "clues": [
+    "Manobala",
+    "Sathyan",
+    "Abhimanyu Singh",
+    "Bose Venkat",
+    "Rakul Preet Singh",
+    "Karthi"
+   ],
+   "poster_query": "Theeran Adhigaaram Ondru 2017 Karthi Tamil movie poster"
+  },
+  {
+   "id": "paruthiveeran-2007",
+   "title": "Paruthiveeran",
+   "year": 2007,
+   "category": "midtier",
+   "hero": "Karthi",
+   "answers": [
+    "paruthiveeran",
+    "paruthi veeran"
+   ],
+   "clues": [
+    "Sujatha Sivakumar",
+    "Ponvannan",
+    "Ganja Karuppu",
+    "Samuthirakani",
+    "Priyamani",
+    "Karthi"
+   ],
+   "poster_query": "Paruthiveeran 2007 Karthi Tamil movie poster"
+  },
+  {
+   "id": "oru-nalla-naal-2018",
+   "title": "Oru Nalla Naal Paathu Solren",
+   "year": 2018,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "oru nalla naal paathu solren",
+    "onnps"
+   ],
+   "clues": [
+    "Ramesh Thilak",
+    "Daniel Annie Pope",
+    "Gayathrie Shankar",
+    "Niharika Konidela",
+    "Gautham Ram Karthik",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Oru Nalla Naal Paathu Solren 2018 Tamil movie poster"
+  },
+  {
+   "id": "kanchana-2011",
+   "title": "Kanchana",
+   "year": 2011,
+   "category": "midtier",
+   "hero": "Raghava Lawrence",
+   "answers": [
+    "kanchana",
+    "muni 2 kanchana"
+   ],
+   "clues": [
+    "Kovai Sarala",
+    "Mayilsamy",
+    "Devan",
+    "R. Sarathkumar",
+    "Lakshmi Rai",
+    "Raghava Lawrence"
+   ],
+   "poster_query": "Kanchana 2011 Tamil movie poster"
+  },
+  {
+   "id": "36-vayadhinile-2015",
+   "title": "36 Vayadhinile",
+   "year": 2015,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "36 vayadhinile",
+    "36 vayathinile",
+    "36"
+   ],
+   "clues": [
+    "Delhi Ganesh",
+    "M. S. Bhaskar",
+    "Nassar",
+    "Abhirami",
+    "Rahman",
+    "Jyothika"
+   ],
+   "poster_query": "36 Vayadhinile 2015 Jyothika Tamil movie poster"
+  },
+  {
+   "id": "magalir-mattum-2017",
+   "title": "Magalir Mattum",
+   "year": 2017,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "magalir mattum",
+    "magalir matum"
+   ],
+   "clues": [
+    "Manobala",
+    "Nassar",
+    "Bhanupriya",
+    "Saranya Ponvannan",
+    "Urvashi",
+    "Jyothika"
+   ],
+   "poster_query": "Magalir Mattum 2017 Jyothika Tamil movie poster"
+  },
+  {
+   "id": "aramm-2017",
+   "title": "Aramm",
+   "year": 2017,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "aramm",
+    "aram"
+   ],
+   "clues": [
+    "Kitty",
+    "Vinodhini Vaidyanathan",
+    "Sunu Lakshmi",
+    "Ramachandran Durairaj",
+    "Vela Ramamoorthy",
+    "Nayanthara"
+   ],
+   "poster_query": "Aramm 2017 Nayanthara Tamil movie poster"
+  },
+  {
+   "id": "mookuthi-amman-2020",
+   "title": "Mookuthi Amman",
+   "year": 2020,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "mookuthi amman",
+    "mookkuthi amman"
+   ],
+   "clues": [
+    "Mayilsamy",
+    "Urvashi",
+    "Ajay Ghosh",
+    "T. S. B. K. Moulee",
+    "RJ Balaji",
+    "Nayanthara"
+   ],
+   "poster_query": "Mookuthi Amman 2020 Nayanthara Tamil movie poster"
+  },
+  {
+   "id": "kaatrin-mozhi-2018",
+   "title": "Kaatrin Mozhi",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "kaatrin mozhi",
+    "katrin mozhi"
+   ],
+   "clues": [
+    "Manobala",
+    "M. S. Bhaskar",
+    "Lakshmi Manchu",
+    "Elango Kumaravel",
+    "Vidharth",
+    "Jyothika"
+   ],
+   "poster_query": "Kaatrin Mozhi 2018 Jyothika Tamil movie poster"
+  },
+  {
+   "id": "raatchasi-2019",
+   "title": "Raatchasi",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "raatchasi",
+    "ratchasi"
+   ],
+   "clues": [
+    "Hareesh Peradi",
+    "Sathyan",
+    "Nagineedu",
+    "Aruldoss",
+    "Poornima Bhagyaraj",
+    "Jyothika"
+   ],
+   "poster_query": "Raatchasi 2019 Jyothika Tamil movie poster"
+  },
+  {
+   "id": "kanaa-2018",
+   "title": "Kanaa",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Aishwarya Rajesh",
+   "answers": [
+    "kanaa",
+    "kana"
+   ],
+   "clues": [
+    "Ilavarasu",
+    "Namo Narayana",
+    "Darshan",
+    "Kali Prasad Mukherjee",
+    "Sathyaraj",
+    "Aishwarya Rajesh"
+   ],
+   "poster_query": "Kanaa 2018 Aishwarya Rajesh Tamil movie poster"
+  },
+  {
+   "id": "game-over-2019",
+   "title": "Game Over",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Taapsee Pannu",
+   "answers": [
+    "game over"
+   ],
+   "clues": [
+    "Ramya Subramanian",
+    "Sanchana Natarajan",
+    "Anish Kuruvilla",
+    "Parvathi T.",
+    "Vinodhini Vaidyanathan",
+    "Taapsee Pannu"
+   ],
+   "poster_query": "Game Over 2019 Taapsee Pannu Tamil movie poster"
+  },
+  {
+   "id": "kolamaavu-kokila-2018",
+   "title": "Kolamaavu Kokila",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "kolamaavu kokila",
+    "coco",
+    "kolamavu kokila"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Rajendran",
+    "Saranya Ponvannan",
+    "Hareesh Peradi",
+    "Saravanan",
+    "Nayanthara"
+   ],
+   "poster_query": "Kolamaavu Kokila 2018 Nayanthara Tamil movie poster"
+  },
+  {
+   "id": "jackpot-2019",
+   "title": "Jackpot",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "jackpot"
+   ],
+   "clues": [
+    "Manobala",
+    "Yogi Babu",
+    "Anandaraj",
+    "Mansoor Ali Khan",
+    "Revathi",
+    "Jyothika"
+   ],
+   "poster_query": "Jackpot 2019 Jyothika Tamil movie poster"
+  },
+  {
+   "id": "kaatru-veliyidai-2017",
+   "title": "Kaatru Veliyidai",
+   "year": 2017,
+   "category": "female_led",
+   "hero": "Aditi Rao Hydari",
+   "answers": [
+    "kaatru veliyidai",
+    "katru veliyidai"
+   ],
+   "clues": [
+    "Delhi Ganesh",
+    "RJ Balaji",
+    "Shraddha Srinath",
+    "Rukmini Vijayakumar",
+    "Karthi",
+    "Aditi Rao Hydari"
+   ],
+   "poster_query": "Kaatru Veliyidai 2017 Tamil movie poster"
+  },
+  {
+   "id": "sillu-karupatti-2019",
+   "title": "Sillu Karupatti",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Ensemble",
+   "answers": [
+    "sillu karupatti",
+    "sillukarupatti"
+   ],
+   "clues": [
+    "Deepa Shankar",
+    "Semmalar Annam",
+    "K. Manikandan",
+    "Nivedhithaa Sathish",
+    "Leela Samson",
+    "Samuthirakani"
+   ],
+   "poster_query": "Sillu Karupatti 2019 Tamil movie poster"
+  },
+  {
+   "id": "ponmagal-vandhal-2020",
+   "title": "Ponmagal Vandhal",
+   "year": 2020,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "ponmagal vandhal",
+    "ponmagal"
+   ],
+   "clues": [
+    "Pandiarajan",
+    "Thiagarajan",
+    "Pratap Pothen",
+    "R. Parthiban",
+    "K. Bhagyaraj",
+    "Jyothika"
+   ],
+   "poster_query": "Ponmagal Vandhal 2020 Tamil movie poster"
+  },
+  {
+   "id": "devi-2016",
+   "title": "Devi",
+   "year": 2016,
+   "category": "female_led",
+   "hero": "Tamannaah",
+   "answers": [
+    "devi",
+    "devil",
+    "devi l"
+   ],
+   "clues": [
+    "Nassar",
+    "Sathish",
+    "Sonu Sood",
+    "RJ Balaji",
+    "Prabhu Deva",
+    "Tamannaah"
+   ],
+   "poster_query": "Devi 2016 Tamil movie poster"
+  },
+  {
+   "id": "netrikann-2021",
+   "title": "Netrikann",
+   "year": 2021,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "netrikann",
+    "nethrikann"
+   ],
+   "clues": [
+    "Redin Kingsley",
+    "Supergood Subramani",
+    "Saran Shakthi",
+    "K. Manikandan",
+    "Ajmal Ameer",
+    "Nayanthara"
+   ],
+   "poster_query": "Netrikann 2021 Tamil movie poster"
+  },
+  {
+   "id": "subramaniapuram-2008",
+   "title": "Subramaniapuram",
+   "year": 2008,
+   "category": "character_driven",
+   "hero": "Jai",
+   "answers": [
+    "subramaniapuram",
+    "subramania puram"
+   ],
+   "clues": [
+    "Ganja Karuppu",
+    "Kaajal Pasupathi",
+    "P. Samuthirakani",
+    "Swathi Reddy",
+    "M. Sasikumar",
+    "Jai"
+   ],
+   "poster_query": "Subramaniapuram 2008 Tamil movie poster"
+  },
+  {
+   "id": "pariyerum-perumal-2018",
+   "title": "Pariyerum Perumal",
+   "year": 2018,
+   "category": "character_driven",
+   "hero": "Kathir",
+   "answers": [
+    "pariyerum perumal",
+    "pariyerum peruma"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Shanmugarajan",
+    "G. Marimuthu",
+    "Poo Ramu",
+    "Anandhi",
+    "Kathir"
+   ],
+   "poster_query": "Pariyerum Perumal 2018 Tamil movie poster"
+  },
+  {
+   "id": "visaranai-2015",
+   "title": "Visaranai",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Dinesh",
+   "answers": [
+    "visaranai",
+    "visaaranai"
+   ],
+   "clues": [
+    "Aadukalam Murugadoss",
+    "E. Ramdoss",
+    "Kishore",
+    "Saravana Subbiah",
+    "Samuthirakani",
+    "Dinesh"
+   ],
+   "poster_query": "Visaranai 2015 Tamil movie poster"
+  },
+  {
+   "id": "aaranya-kaandam-2011",
+   "title": "Aaranya Kaandam",
+   "year": 2011,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "aaranya kaandam",
+    "aranya kaandam"
+   ],
+   "clues": [
+    "Sai Dheena",
+    "Five Star Krishna",
+    "Guru Somasundaram",
+    "Sampath Raj",
+    "Ravi Krishna",
+    "Jackie Shroff"
+   ],
+   "poster_query": "Aaranya Kaandam 2011 Tamil movie poster"
+  },
+  {
+   "id": "jigarthanda-2014",
+   "title": "Jigarthanda",
+   "year": 2014,
+   "category": "character_driven",
+   "hero": "Siddharth",
+   "answers": [
+    "jigarthanda",
+    "jigar thanda"
+   ],
+   "clues": [
+    "Delhi Ganesh",
+    "Karunakaran",
+    "Bobby Simha",
+    "Lakshmi Menon",
+    "Vijay Sethupathi",
+    "Siddharth"
+   ],
+   "poster_query": "Jigarthanda 2014 Tamil movie poster"
+  },
+  {
+   "id": "kaaka-muttai-2015",
+   "title": "Kaaka Muttai",
+   "year": 2015,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "kaaka muttai",
+    "kaka muttai",
+    "crow's egg"
+   ],
+   "clues": [
+    "Ramesh Thilak",
+    "Yogi Babu",
+    "Babu Antony",
+    "J. Vignesh",
+    "Aishwarya Rajesh",
+    "Silambarasan"
+   ],
+   "poster_query": "Kaaka Muttai 2015 Tamil movie poster"
+  },
+  {
+   "id": "attakathi-2012",
+   "title": "Attakathi",
+   "year": 2012,
+   "category": "character_driven",
+   "hero": "Dinesh",
+   "answers": [
+    "attakathi",
+    "atta kathi"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Jangiri Madhumitha",
+    "Kalaiyarasan",
+    "Aishwarya Rajesh",
+    "Nandita Swetha",
+    "Dinesh"
+   ],
+   "poster_query": "Attakathi 2012 Tamil movie poster"
+  },
+  {
+   "id": "cuckoo-2014",
+   "title": "Cuckoo",
+   "year": 2014,
+   "category": "character_driven",
+   "hero": "Dinesh",
+   "answers": [
+    "cuckoo",
+    "kuckoo"
+   ],
+   "clues": [
+    "Aadukalam Murugadoss",
+    "E. Ramdoss",
+    "Lizzie Antony",
+    "Raju Murugan",
+    "Malvika Nair",
+    "Dinesh"
+   ],
+   "poster_query": "Cuckoo 2014 Tamil movie poster"
+  },
+  {
+   "id": "kumki-2012",
+   "title": "Kumki",
+   "year": 2012,
+   "category": "character_driven",
+   "hero": "Vikram Prabhu",
+   "answers": [
+    "kumki"
+   ],
+   "clues": [
+    "Thambi Ramaiah",
+    "Junior Balaiah",
+    "Ashvin Raja",
+    "Sreejith Ravi",
+    "Lakshmi Menon",
+    "Vikram Prabhu"
+   ],
+   "poster_query": "Kumki 2012 Vikram Prabhu Tamil movie poster"
+  },
+  {
+   "id": "peranbu-2019",
+   "title": "Peranbu",
+   "year": 2018,
+   "category": "character_driven",
+   "hero": "Mammootty",
+   "answers": [
+    "peranbu",
+    "peranpu"
+   ],
+   "clues": [
+    "Vadivukkarasi",
+    "Aruldoss",
+    "Shanmugarajan",
+    "Anjali",
+    "Anjali Ameer",
+    "Mammootty"
+   ],
+   "poster_query": "Peranbu 2019 Mammootty Tamil movie poster"
+  },
+  {
+   "id": "pudhupettai-2006",
+   "title": "Pudhupettai",
+   "year": 2006,
+   "category": "character_driven",
+   "hero": "Dhanush",
+   "answers": [
+    "pudhupettai",
+    "pudupettai"
+   ],
+   "clues": [
+    "Aadukalam Murugadoss",
+    "Bala Singh",
+    "Azhagam Perumal",
+    "Sonia Agarwal",
+    "Sneha",
+    "Dhanush"
+   ],
+   "poster_query": "Pudhupettai 2006 Dhanush Tamil movie poster"
+  },
+  {
+   "id": "karnan-2021",
+   "title": "Karnan",
+   "year": 2021,
+   "category": "character_driven",
+   "hero": "Dhanush",
+   "answers": [
+    "karnan"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Delhi Ganesh",
+    "Lal",
+    "Natty Subramaniam",
+    "Rajisha Vijayan",
+    "Dhanush"
+   ],
+   "poster_query": "Karnan 2021 Dhanush Tamil movie poster"
+  },
+  {
+   "id": "iraivi-2016",
+   "title": "Iraivi",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "iraivi"
+   ],
+   "clues": [
+    "Radha Ravi",
+    "Karunakaran",
+    "Bobby Simha",
+    "Anjali",
+    "S. J. Suryah",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Iraivi 2016 Tamil movie poster"
+  },
+  {
+   "id": "aandavan-kattalai-2016",
+   "title": "Aandavan Kattalai",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "aandavan kattalai",
+    "andavan kattalai"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Singampuli",
+    "Nassar",
+    "George Maryan",
+    "Ritika Singh",
+    "Vijay Sethupathi"
+   ],
+   "poster_query": "Aandavan Kattalai 2016 Vijay Sethupathi Tamil movie poster"
+  },
+  {
+   "id": "angadi-theru-2010",
+   "title": "Angadi Theru",
+   "year": 2010,
+   "category": "character_driven",
+   "hero": "Mahesh",
+   "answers": [
+    "angadi theru",
+    "angaadi theru"
+   ],
+   "clues": [
+    "John Vijay",
+    "Imman Annachi",
+    "Pandi",
+    "Pala. Karuppiah",
+    "Anjali",
+    "Mahesh"
+   ],
+   "poster_query": "Angadi Theru 2010 Tamil movie poster"
+  },
+  {
+   "id": "naan-kadavul-2009",
+   "title": "Naan Kadavul",
+   "year": 2009,
+   "category": "character_driven",
+   "hero": "Arya",
+   "answers": [
+    "naan kadavul",
+    "nan kadavul"
+   ],
+   "clues": [
+    "Rajendran",
+    "Singampuli",
+    "Krishnamoorthy",
+    "Meesai Rajendran",
+    "Pooja Umashanker",
+    "Arya"
+   ],
+   "poster_query": "Naan Kadavul 2009 Arya Bala Tamil movie poster"
+  },
+  {
+   "id": "mynaa-2010",
+   "title": "Mynaa",
+   "year": 2010,
+   "category": "character_driven",
+   "hero": "Vidharth",
+   "answers": [
+    "mynaa",
+    "myna"
+   ],
+   "clues": [
+    "Thambi Ramaiah",
+    "G. M. Kumar",
+    "Prabhu",
+    "Sethu",
+    "Amala Paul",
+    "Vidharth"
+   ],
+   "poster_query": "Mynaa 2010 Tamil movie poster"
+  },
+  {
+   "id": "autograph-2004",
+   "title": "Autograph",
+   "year": 2004,
+   "category": "character_driven",
+   "hero": "Cheran",
+   "answers": [
+    "autograph"
+   ],
+   "clues": [
+    "Ilavarasu",
+    "Five Star Krishna",
+    "Gopika",
+    "Kanika",
+    "Sneha",
+    "Cheran"
+   ],
+   "poster_query": "Autograph 2004 Cheran Tamil movie poster"
+  },
+  {
+   "id": "kutrame-thandanai-2016",
+   "title": "Kuttrame Thandanai",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Vidharth",
+   "answers": [
+    "kuttrame thandanai",
+    "kutrame thandanai"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "George Maryan",
+    "Guru Somasundaram",
+    "Rahman",
+    "Aishwarya Rajesh",
+    "Vidharth"
+   ],
+   "poster_query": "Kuttrame Thandanai 2016 Tamil movie poster"
+  },
+  {
+   "id": "onaayum-aattukkuttiyum-2013",
+   "title": "Onaayum Aattukkuttiyum",
+   "year": 2013,
+   "category": "character_driven",
+   "hero": "Mysskin",
+   "answers": [
+    "onaayum aattukkuttiyum",
+    "onayum aatukuttiyum",
+    "the wolf and the lamb"
+   ],
+   "clues": [
+    "Gajaraj",
+    "Supergood Subramani",
+    "Shaji Chen",
+    "Raj Bharath",
+    "Sri Natarajan",
+    "Mysskin"
+   ],
+   "poster_query": "Onaayum Aattukkuttiyum 2013 Tamil movie poster"
+  },
+  {
+   "id": "anjaathe-2008",
+   "title": "Anjaathe",
+   "year": 2008,
+   "category": "character_driven",
+   "hero": "Narain",
+   "answers": [
+    "anjaathe",
+    "anjathe"
+   ],
+   "clues": [
+    "M. S. Bhaskar",
+    "Pandiarajan",
+    "Ajmal Ameer",
+    "Vijayalakshmi Feroz",
+    "Prasanna",
+    "Narain"
+   ],
+   "poster_query": "Anjaathe 2008 Tamil movie poster"
+  },
+  {
+   "id": "yuddham-sei-2011",
+   "title": "Yuddham Sei",
+   "year": 2011,
+   "category": "character_driven",
+   "hero": "Cheran",
+   "answers": [
+    "yuddham sei",
+    "yutham sei",
+    "yudham sei"
+   ],
+   "clues": [
+    "G. Marimuthu",
+    "Aadukalam Naren",
+    "Y. G. Mahendran",
+    "Jayaprakash",
+    "Ineya",
+    "Cheran"
+   ],
+   "poster_query": "Yuddham Sei 2011 Tamil movie poster"
+  },
+  {
+   "id": "baba-2002",
+   "title": "Baba",
+   "year": 2002,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "baba"
+   ],
+   "clues": [
+    "Goundamani",
+    "Delhi Ganesh",
+    "Amrish Puri",
+    "M. N. Nambiar",
+    "Manisha Koirala",
+    "Rajinikanth"
+   ],
+   "poster_query": "Baba 2002 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "sura-2010",
+   "title": "Sura",
+   "year": 2010,
+   "category": "troll_washout",
+   "hero": "Vijay",
+   "answers": [
+    "sura"
+   ],
+   "clues": [
+    "Vadivelu",
+    "Radha Ravi",
+    "Dev Gill",
+    "Riyaz Khan",
+    "Tamannaah",
+    "Vijay"
+   ],
+   "poster_query": "Sura 2010 Vijay Tamil movie poster"
+  },
+  {
+   "id": "lingaa-2014",
+   "title": "Lingaa",
+   "year": 2014,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "lingaa",
+    "linga"
+   ],
+   "clues": [
+    "Santhanam",
+    "Radha Ravi",
+    "Jagapati Babu",
+    "K. Viswanath",
+    "Anushka Shetty",
+    "Rajinikanth"
+   ],
+   "poster_query": "Lingaa 2014 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "kochadaiiyaan-2014",
+   "title": "Kochadaiiyaan",
+   "year": 2014,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "kochadaiiyaan",
+    "kochadaiyaan"
+   ],
+   "clues": [
+    "Nassar",
+    "Shanmugarajan",
+    "R. Sarathkumar",
+    "Jackie Shroff",
+    "Deepika Padukone",
+    "Rajinikanth"
+   ],
+   "poster_query": "Kochadaiiyaan 2014 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "puli-2015",
+   "title": "Puli",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Vijay",
+   "answers": [
+    "puli"
+   ],
+   "clues": [
+    "Thambi Ramaiah",
+    "Sathyan",
+    "Sudeep",
+    "Sridevi",
+    "Shruti Haasan",
+    "Vijay"
+   ],
+   "poster_query": "Puli 2015 Vijay Tamil movie poster"
+  },
+  {
+   "id": "alex-pandian-2013",
+   "title": "Alex Pandian",
+   "year": 2013,
+   "category": "troll_washout",
+   "hero": "Karthi",
+   "answers": [
+    "alex pandian",
+    "alex pandiyan"
+   ],
+   "clues": [
+    "Santhanam",
+    "Saravanan",
+    "Milind Soman",
+    "Prathap Pothen",
+    "Anushka Shetty",
+    "Karthi"
+   ],
+   "poster_query": "Alex Pandian 2013 Karthi Tamil movie poster"
+  },
+  {
+   "id": "vaalu-2015",
+   "title": "Vaalu",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Silambarasan",
+   "answers": [
+    "vaalu",
+    "valu"
+   ],
+   "clues": [
+    "N. Santhanam",
+    "VTV Ganesh",
+    "Aditya",
+    "Aadukalam Naren",
+    "Hansika Motwani",
+    "Silambarasan"
+   ],
+   "poster_query": "Vaalu 2015 Simbu Tamil movie poster"
+  },
+  {
+   "id": "aambala-2015",
+   "title": "Aambala",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Vishal",
+   "answers": [
+    "aambala",
+    "ambala"
+   ],
+   "clues": [
+    "Santhanam",
+    "Sathish",
+    "Prabhu",
+    "Ramya Krishnan",
+    "Hansika Motwani",
+    "Vishal"
+   ],
+   "poster_query": "Aambala 2015 Vishal Tamil movie poster"
+  },
+  {
+   "id": "sandakozhi-2-2018",
+   "title": "Sandakozhi 2",
+   "year": 2018,
+   "category": "troll_washout",
+   "hero": "Vishal",
+   "answers": [
+    "sandakozhi 2",
+    "sandakozhi 2"
+   ],
+   "clues": [
+    "Ganja Karuppu",
+    "Shanmugarajan",
+    "Varalaxmi Sarathkumar",
+    "Rajkiran",
+    "Keerthy Suresh",
+    "Vishal"
+   ],
+   "poster_query": "Sandakozhi 2 2018 Vishal Tamil movie poster"
+  },
+  {
+   "id": "kaappaan-2019",
+   "title": "Kaappaan",
+   "year": 2019,
+   "category": "troll_washout",
+   "hero": "Suriya",
+   "answers": [
+    "kaappaan",
+    "kappan"
+   ],
+   "clues": [
+    "Samuthirakani",
+    "Thalaivasal Vijay",
+    "Boman Irani",
+    "Arya",
+    "Mohanlal",
+    "Suriya"
+   ],
+   "poster_query": "Kaappaan 2019 Suriya Tamil movie poster"
+  },
+  {
+   "id": "darbar-2020",
+   "title": "Darbar",
+   "year": 2020,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "darbar"
+   ],
+   "clues": [
+    "Yogi Babu",
+    "Sriman",
+    "Suniel Shetty",
+    "Prateik Babbar",
+    "Nayanthara",
+    "Rajinikanth"
+   ],
+   "poster_query": "Darbar 2020 Rajinikanth Tamil movie poster"
+  },
+  {
+   "id": "kaththi-sandai-2016",
+   "title": "Kaththi Sandai",
+   "year": 2016,
+   "category": "troll_washout",
+   "hero": "Vishal",
+   "answers": [
+    "kaththi sandai",
+    "kathi sandai"
+   ],
+   "clues": [
+    "Vadivelu",
+    "Soori",
+    "Jagapathi Babu",
+    "Tarun Arora",
+    "Tamannaah",
+    "Vishal"
+   ],
+   "poster_query": "Kaththi Sandai 2016 Vishal Tamil movie poster"
+  },
+  {
+   "id": "sakalakala-vallavan-2015",
+   "title": "Sakalakala Vallavan",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Jayam Ravi",
+   "answers": [
+    "sakalakala vallavan",
+    "sakalakala vallavan appatakkar",
+    "svl"
+   ],
+   "clues": [
+    "Radha Ravi",
+    "Rajendran",
+    "Soori",
+    "Prabhu",
+    "Trisha",
+    "Jayam Ravi"
+   ],
+   "poster_query": "Sakalakala Vallavan 2015 Tamil movie poster"
+  }
+ ]
+}

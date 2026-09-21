@@ -1,0 +1,12 @@
+{
+  "name": "tamil-movie-quiz",
+  "version": "0.1.0",
+  "description": "Guess-the-Tamil-Movie party game: reveal actor photos one clue at a time.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "serve": "python3 -m http.server 8000"
+  },
+  "license": "MIT"
+}

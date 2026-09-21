@@ -1,0 +1,2801 @@
+{
+ "movies": [
+  {
+   "id": "ghilli-2004",
+   "title": "Ghilli",
+   "year": 2004,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "ghilli",
+    "gilli"
+   ],
+   "poster_query": "Ghilli 2004 Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "C. Joseph Vijay",
+    "Trisha Krishnan",
+    "Prakash Raj",
+    "Ashish Vidyarthi",
+    "Tanikella Bharani",
+    "Janaki Sabesh",
+    "Nancy Jennifer",
+    "Nagendra Prasad",
+    "Dhamu",
+    "Maran (actor)",
+    "Aadukalam Murugadoss",
+    "Chaplin Balu"
+   ],
+   "found": true,
+   "wiki_notes": "Vijay lead; masala action remake, highest-grossing Tamil film of 2004"
+  },
+  {
+   "id": "chandramukhi-2005",
+   "title": "Chandramukhi",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "chandramukhi"
+   ],
+   "poster_query": "Chandramukhi 2005 Rajinikanth Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Jyothika",
+    "Prabhu (actor)",
+    "Vadivelu",
+    "Nayanthara",
+    "Nassar (actor)",
+    "Vineeth",
+    "Vijayakumar (Tamil actor)",
+    "Sheela",
+    "K. R. Vijaya",
+    "Avinash Yelandur",
+    "Thyagu (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "Rajinikanth + Jyothika; horror-comedy, record 890-day theatrical run"
+  },
+  {
+   "id": "nanban-2012",
+   "title": "Nanban",
+   "year": 2012,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "nanban"
+   ],
+   "poster_query": "Nanban 2012 Vijay Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "C. Joseph Vijay",
+    "Jiiva",
+    "Srikanth (actor, born 1979)",
+    "Ileana D'Cruz",
+    "Sathyaraj",
+    "Sathyan (Tamil actor)",
+    "Anuya Bhagvath",
+    "T. M. Karthik",
+    "Manobala",
+    "Uma (Tamil actress)",
+    "Aadukalam Naren",
+    "Sreeja Ravi"
+   ],
+   "found": true,
+   "wiki_notes": "Vijay lead but ensemble (Jiiva, Srikanth); remake of 3 Idiots"
+  },
+  {
+   "id": "baasha-1995",
+   "title": "Baasha",
+   "year": 1995,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "baasha",
+    "basha"
+   ],
+   "poster_query": "Baasha 1995 Rajinikanth Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Nagma",
+    "Raghuvaran",
+    "Janagaraj",
+    "Devan (actor)",
+    "Shashi Kumar",
+    "Vijayakumar (Tamil actor)",
+    "Anandaraj",
+    "Charan Raj",
+    "Kitty (actor)",
+    "Sethu Vinayagam",
+    "Sathyapriya"
+   ],
+   "found": true,
+   "wiki_notes": "Rajinikanth solo lead; landmark cult superstar vehicle"
+  },
+  {
+   "id": "padayappa-1999",
+   "title": "Padayappa",
+   "year": 1999,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "padayappa"
+   ],
+   "poster_query": "Padayappa 1999 Rajinikanth Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Sivaji Ganesan",
+    "Rajinikanth",
+    "Ramya Krishnan",
+    "Soundarya",
+    "Pritha Hari",
+    "Lakshmi (actress)",
+    "Sithara (actress)",
+    "Radha Ravi",
+    "Nassar (actor)",
+    "Manivannan",
+    "Senthil",
+    "Abbas (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "Rajinikanth is title hero though Sivaji Ganesan billed first; Ramya Krishnan antagonist"
+  },
+  {
+   "id": "enthiran-2010",
+   "title": "Enthiran",
+   "year": 2010,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "enthiran",
+    "robot",
+    "endhiran"
+   ],
+   "poster_query": "Enthiran 2010 Rajinikanth robot Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Aishwarya Rai Bachchan",
+    "Danny Denzongpa",
+    "Santhanam (actor)",
+    "Karunas",
+    "Cochin Haneefa",
+    "Kalabhavan Mani",
+    "Delhi Kumar",
+    "Raaghav",
+    "Devadarshini",
+    "Revathi Sankaran",
+    "Sabu Cyril"
+   ],
+   "found": true,
+   "wiki_notes": "Rajinikanth dual role; then highest-grossing Indian film"
+  },
+  {
+   "id": "thalapathi-1991",
+   "title": "Thalapathi",
+   "year": 1991,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "thalapathi",
+    "dalapathi"
+   ],
+   "poster_query": "Thalapathi 1991 Rajinikanth Mammootty Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Rajinikanth",
+    "Mammootty",
+    "Arvind Swamy",
+    "Jaishankar (actor)",
+    "Amrish Puri",
+    "Srividya",
+    "Bhanupriya",
+    "Shobana",
+    "Geetha (actress)",
+    "Nagesh",
+    "Charuhasan",
+    "Kitty (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "Rajinikanth lead with Mammootty; commercial success, later cult classic"
+  },
+  {
+   "id": "petta-2019",
+   "title": "Petta",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Rajinikanth",
+   "answers": [
+    "petta"
+   ],
+   "poster_query": "Petta 2019 Rajinikanth Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Rajinikanth",
+    "Vijay Sethupathi",
+    "Nawazuddin Siddiqui",
+    "M. Sasikumar",
+    "Simran (actress)",
+    "Trisha Krishnan",
+    "Megha Akash",
+    "Malavika Mohanan",
+    "Mahendran (filmmaker)",
+    "Bobby Simha",
+    "Guru Somasundaram",
+    "Aadukalam Naren"
+   ],
+   "found": true,
+   "wiki_notes": "Rajinikanth lead, large ensemble; commercial success"
+  },
+  {
+   "id": "nayakan-1987",
+   "title": "Nayakan",
+   "year": 1987,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "nayakan",
+    "nayagan"
+   ],
+   "poster_query": "Nayakan 1987 Kamal Haasan Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Kamal Haasan",
+    "Saranya Ponvannan",
+    "Janagaraj",
+    "Delhi Ganesh",
+    "Karthika (Malayalam actress)",
+    "Nizhalgal Ravi",
+    "Nassar (actor)",
+    "Tinnu Anand",
+    "Vijayan (actor)",
+    "M. V. Vasudeva Rao",
+    "Tara (Kannada actress)",
+    "Kuyili (actress)"
+   ],
+   "found": true,
+   "wiki_notes": "Kamal Haasan lead; commercial success + critically acclaimed, on TIME 100 best films"
+  },
+  {
+   "id": "thevar-magan-1992",
+   "title": "Thevar Magan",
+   "year": 1992,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "thevar magan",
+    "thevarmagan"
+   ],
+   "poster_query": "Thevar Magan 1992 Kamal Haasan Sivaji Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Sivaji Ganesan",
+    "Kamal Haasan",
+    "Revathi",
+    "Gautami",
+    "Nassar (actor)",
+    "Kaka Radhakrishnan",
+    "Vadivelu",
+    "Kallapart Natarajan",
+    "Sangili Murugan",
+    "Thalaivasal Vijay",
+    "S. N. Lakshmi",
+    "Gandhimathi"
+   ],
+   "found": true,
+   "wiki_notes": "Kamal Haasan protagonist though Sivaji Ganesan billed first; critically acclaimed, National Award"
+  },
+  {
+   "id": "indian-1996",
+   "title": "Indian",
+   "year": 1996,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "indian",
+    "indhian"
+   ],
+   "poster_query": "Indian 1996 Kamal Haasan Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Kamal Haasan",
+    "Manisha Koirala",
+    "Urmila Matondkar",
+    "Sukanya (actress)",
+    "Manorama (Tamil actress)",
+    "Goundamani",
+    "Senthil",
+    "Nedumudi Venu",
+    "Kasthuri Shankar",
+    "Nizhalgal Ravi",
+    "Ajay Rathnam",
+    "Ponnambalam (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "Kamal Haasan dual role; commercial success, National Award"
+  },
+  {
+   "id": "vishwaroopam-2013",
+   "title": "Vishwaroopam",
+   "year": 2013,
+   "category": "superstar",
+   "hero": "Kamal Haasan",
+   "answers": [
+    "vishwaroopam",
+    "viswaroopam"
+   ],
+   "poster_query": "Vishwaroopam 2013 Kamal Haasan Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Kamal Haasan",
+    "Rahul Bose",
+    "Shekhar Kapur",
+    "Pooja Kumar",
+    "Andrea Jeremiah",
+    "Jaideep Ahlawat",
+    "Samrat Chakrabarti",
+    "Nassar (actor)",
+    "Zarina Wahab",
+    "Miles Anderson",
+    "Naren Weiss",
+    "Rajesh Selva"
+   ],
+   "found": true,
+   "wiki_notes": "Kamal Haasan lead/director; commercial success and critically acclaimed"
+  },
+  {
+   "id": "ghajini-2005",
+   "title": "Ghajini",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Suriya",
+   "answers": [
+    "ghajini",
+    "gajini"
+   ],
+   "poster_query": "Ghajini 2005 Suriya Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Suriya",
+    "Asin",
+    "Nayanthara",
+    "Pradeep Rawat (actor)",
+    "Riyaz Khan",
+    "Manobala",
+    "Sathyan (Tamil actor)"
+   ],
+   "found": true,
+   "wiki_notes": "Suriya lead; commercial success and critically praised"
+  },
+  {
+   "id": "kaakha-kaakha-2003",
+   "title": "Kaakha Kaakha",
+   "year": 2003,
+   "category": "superstar",
+   "hero": "Suriya",
+   "answers": [
+    "kaakha kaakha",
+    "kaka kaka",
+    "kaakha"
+   ],
+   "poster_query": "Kaakha Kaakha 2003 Suriya Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Suriya",
+    "Jyothika",
+    "Jeevan (Tamil actor)",
+    "Daniel Balaji",
+    "Devadarshini",
+    "Yog Japee",
+    "Ramya Krishnan",
+    "Pondy Ravi",
+    "Cool Suresh",
+    "Sathyaraj",
+    "Manobala",
+    "Rajeevan"
+   ],
+   "found": true,
+   "wiki_notes": "Suriya lead; commercial success, cult cop thriller"
+  },
+  {
+   "id": "singam-2010",
+   "title": "Singam",
+   "year": 2010,
+   "category": "superstar",
+   "hero": "Suriya",
+   "answers": [
+    "singam",
+    "singham"
+   ],
+   "poster_query": "Singam 2010 Suriya Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Suriya",
+    "Anushka Shetty",
+    "Prakash Raj",
+    "Vivek (actor)",
+    "Adithya (actor)",
+    "Vijayakumar (Tamil actor)",
+    "Nizhalgal Ravi",
+    "Radha Ravi",
+    "Nassar (actor)",
+    "Sumithra (actress)",
+    "Janaki Sabesh",
+    "Priya Atlee"
+   ],
+   "found": true,
+   "wiki_notes": "Suriya lead; major commercial success, launched franchise"
+  },
+  {
+   "id": "anniyan-2005",
+   "title": "Anniyan",
+   "year": 2005,
+   "category": "superstar",
+   "hero": "Vikram",
+   "answers": [
+    "anniyan",
+    "aniyan"
+   ],
+   "poster_query": "Anniyan 2005 Vikram Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Vikram (actor)",
+    "Sadha",
+    "Vivek (actor)",
+    "Prakash Raj",
+    "Nedumudi Venu",
+    "Nassar (actor)",
+    "Cochin Haneefa",
+    "Kalabhavan Mani",
+    "Charle",
+    "Shanmugarajan",
+    "Saurabh Shukla",
+    "Yana Gupta"
+   ],
+   "found": true,
+   "wiki_notes": "Vikram triple-role lead; commercial success (flop/disaster keywords refer to comparisons, not this film)"
+  },
+  {
+   "id": "pithamagan-2003",
+   "title": "Pithamagan",
+   "year": 2003,
+   "category": "superstar",
+   "hero": "Vikram",
+   "answers": [
+    "pithamagan",
+    "pithamahan"
+   ],
+   "poster_query": "Pithamagan 2003 Vikram Suriya Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Vikram (actor)",
+    "Suriya",
+    "Laila (actress)",
+    "Sangeetha Krish",
+    "Karunas",
+    "Manobala",
+    "Simran (actress)",
+    "T. P. Gajendran",
+    "Mu Ramaswamy",
+    "Visweswara Rao",
+    "Muthukaalai",
+    "Ramaraju (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "Vikram lead with Suriya; commercial success + critically acclaimed, National Award for Vikram"
+  },
+  {
+   "id": "asuran-2019",
+   "title": "Asuran",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Dhanush",
+   "answers": [
+    "asuran"
+   ],
+   "poster_query": "Asuran 2019 Dhanush Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Dhanush",
+    "Manju Warrier",
+    "Ken Karunas",
+    "Teejay Arunasalam",
+    "Pasupathy",
+    "Prakash Raj",
+    "Ammu Abhirami",
+    "Balaji Sakthivel",
+    "Subramaniam Siva",
+    "Aadukalam Naren",
+    "Pawan (actor)",
+    "A. Venkatesh (director)"
+   ],
+   "found": true,
+   "wiki_notes": "Dhanush lead; commercial success + critically acclaimed, National Award for Best Actor"
+  },
+  {
+   "id": "aadukalam-2011",
+   "title": "Aadukalam",
+   "year": 2011,
+   "category": "superstar",
+   "hero": "Dhanush",
+   "answers": [
+    "aadukalam",
+    "adukalam"
+   ],
+   "poster_query": "Aadukalam 2011 Dhanush Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Dhanush",
+    "Taapsee Pannu",
+    "Kishore (actor, born 1974)",
+    "V. I. S. Jayapalan",
+    "Aadukalam Naren",
+    "Aadukalam Murugadoss",
+    "Meenal",
+    "Sendrayan",
+    "Periya Karuppu Thevar",
+    "Jayaprakash (actor)",
+    "Dinesh Ravi",
+    "Halwa Vasu"
+   ],
+   "found": true,
+   "wiki_notes": "Dhanush lead; won 6 National Awards; commercially modest"
+  },
+  {
+   "id": "vada-chennai-2018",
+   "title": "Vada Chennai",
+   "year": 2018,
+   "category": "superstar",
+   "hero": "Dhanush",
+   "answers": [
+    "vada chennai",
+    "vadachennai"
+   ],
+   "poster_query": "Vada Chennai 2018 Dhanush Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Dhanush",
+    "Ameer (director)",
+    "Andrea Jeremiah",
+    "Aishwarya Rajesh",
+    "Samuthirakani",
+    "Daniel Balaji",
+    "Kishore (actor, born 1974)",
+    "Pawan (actor)",
+    "Sai Dheena",
+    "Radha Ravi",
+    "Subramaniam Siva",
+    "Vincent Asokan"
+   ],
+   "found": true,
+   "wiki_notes": "Dhanush lead in ensemble gangster drama; commercial success + critically acclaimed"
+  },
+  {
+   "id": "thuppakki-2012",
+   "title": "Thuppakki",
+   "year": 2012,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "thuppakki",
+    "thuppaki"
+   ],
+   "poster_query": "Thuppakki 2012 Vijay Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "C. Joseph Vijay",
+    "Kajal Aggarwal",
+    "Sathyan (Tamil actor)",
+    "Vidyut Jammwal",
+    "Jayaram",
+    "Manobala",
+    "Zakir Hussain (actor)",
+    "Meenakshi (actress)",
+    "Deepthi Nambiar",
+    "Anupama Kumar",
+    "Sanjana Sarathy"
+   ],
+   "found": true,
+   "wiki_notes": "Vijay lead; major commercial success, one of year's top grossers"
+  },
+  {
+   "id": "pokkiri-2007",
+   "title": "Pokkiri",
+   "year": 2007,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "pokkiri",
+    "pokiri"
+   ],
+   "poster_query": "Pokkiri 2007 Vijay Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "C. Joseph Vijay",
+    "Asin",
+    "Napoleon (actor)",
+    "Prakash Raj",
+    "Mukesh Tiwari",
+    "Vadivelu",
+    "Nassar (actor)",
+    "Sriman (actor)",
+    "Anandaraj",
+    "Vincent Asokan",
+    "Subbaraju",
+    "Master Bharath"
+   ],
+   "found": true,
+   "wiki_notes": "Vijay lead; commercial success, top Tamil grosser of 2007"
+  },
+  {
+   "id": "mersal-2017",
+   "title": "Mersal",
+   "year": 2017,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "mersal"
+   ],
+   "poster_query": "Mersal 2017 Vijay Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Vijay (actor)",
+    "S. J. Suryah",
+    "Kajal Aggarwal",
+    "Samantha Ruth Prabhu",
+    "Nithya Menen",
+    "Vadivelu",
+    "Kovai Sarala",
+    "Sathyan (Tamil actor)",
+    "Rajendran",
+    "Yogi Babu",
+    "Kaali Venkat",
+    "Hareesh Peradi"
+   ],
+   "found": true,
+   "wiki_notes": "Vijay triple role; blockbuster, among highest-grossing Tamil films"
+  },
+  {
+   "id": "kaththi-2014",
+   "title": "Kaththi",
+   "year": 2014,
+   "category": "superstar",
+   "hero": "Vijay",
+   "answers": [
+    "kaththi",
+    "kathi"
+   ],
+   "poster_query": "Kaththi 2014 Vijay Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Vijay (actor)",
+    "Samantha Ruth Prabhu",
+    "Neil Nitin Mukesh",
+    "Sathish",
+    "Tota Roy Chowdhury",
+    "Sudip Mukherjee",
+    "Anu Krishna",
+    "Rama (actress)",
+    "Jeeva Ravi",
+    "Nalinikanth",
+    "Veera Santhanam"
+   ],
+   "found": true,
+   "wiki_notes": "Vijay dual role; blockbuster, commercial + critical success"
+  },
+  {
+   "id": "billa-2007",
+   "title": "Billa",
+   "year": 2007,
+   "category": "superstar",
+   "hero": "Ajith Kumar",
+   "answers": [
+    "billa"
+   ],
+   "poster_query": "Billa 2007 Ajith Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Ajith Kumar",
+    "Prabhu (actor)",
+    "Rahman (actor)",
+    "Nayanthara",
+    "Namitha",
+    "Santhanam (actor)",
+    "Adithya Menon",
+    "John Vijay",
+    "Yog Japee",
+    "Hazel Keech"
+   ],
+   "found": true,
+   "wiki_notes": "Ajith Kumar dual role; commercial success/blockbuster remake"
+  },
+  {
+   "id": "viswasam-2019",
+   "title": "Viswasam",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Ajith Kumar",
+   "answers": [
+    "viswasam",
+    "viswaasam"
+   ],
+   "poster_query": "Viswasam 2019 Ajith Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Ajith Kumar",
+    "Nayanthara",
+    "Jagapathi Babu",
+    "Vivek (actor)",
+    "Thambi Ramaiah",
+    "Robo Shankar",
+    "Kovai Sarala",
+    "Yogi Babu",
+    "Anikha Surendran",
+    "Kalairani",
+    "Sujatha Sivakumar",
+    "Rajitha"
+   ],
+   "found": true,
+   "wiki_notes": "Ajith Kumar lead; blockbuster, commercial success"
+  },
+  {
+   "id": "vedalam-2015",
+   "title": "Vedalam",
+   "year": 2015,
+   "category": "superstar",
+   "hero": "Ajith Kumar",
+   "answers": [
+    "vedalam",
+    "vedhalam"
+   ],
+   "poster_query": "Vedalam 2015 Ajith Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Ajith Kumar",
+    "Lakshmi Menon (actress)",
+    "Shruti Haasan",
+    "Ashwin Kakumanu",
+    "Rahul Dev",
+    "Kabir Duhan Singh",
+    "Soori (actor)",
+    "Rajendran",
+    "Thambi Ramaiah",
+    "Avinash Yelandur",
+    "Mansoor Ali Khan (actor)",
+    "Sudha (Telugu actress)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Ajith Kumar. reception src: hit. cat=superstar"
+  },
+  {
+   "id": "kaithi-2019",
+   "title": "Kaithi",
+   "year": 2019,
+   "category": "superstar",
+   "hero": "Karthi",
+   "answers": [
+    "kaithi"
+   ],
+   "poster_query": "Kaithi 2019 Karthi Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Karthi",
+    "Narain (actor)",
+    "Arjun Das",
+    "George Maryan",
+    "Harish Uthaman",
+    "Dheena (actor)",
+    "Ramana (actor)",
+    "Amzath Khan",
+    "Kanna Ravi",
+    "Hareesh Peradi",
+    "Arun Alexander",
+    "Vatsan Chakravarthy"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Karthi. reception src: keywords: critical acclaim, superhit. cat=superstar"
+  },
+  {
+   "id": "vtv-2010",
+   "title": "Vinnaithaandi Varuvaayaa",
+   "year": 2010,
+   "category": "superstar",
+   "hero": "Silambarasan",
+   "answers": [
+    "vinnaithaandi varuvaayaa",
+    "vtv",
+    "vinnaithandi varuvaya"
+   ],
+   "poster_query": "Vinnaithaandi Varuvaayaa 2010 Simbu Trisha Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Silambarasan",
+    "Trisha (actress)",
+    "VTV Ganesh",
+    "Babu Antony",
+    "Kitty (actor)",
+    "Uma (Tamil actress)",
+    "Lakshmi Ramakrishnan",
+    "Subbalakshmi",
+    "K. S. Ravikumar",
+    "Pradeep Kottayam",
+    "Samantha Ruth Prabhu",
+    "Naga Chaitanya"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Silambarasan. reception src: no clear verdict keyword. cat=superstar"
+  },
+  {
+   "id": "alaipayuthey-2000",
+   "title": "Alaipayuthey",
+   "year": 2000,
+   "category": "superstar",
+   "hero": "Madhavan",
+   "answers": [
+    "alaipayuthey",
+    "alaipayuthe"
+   ],
+   "poster_query": "Alaipayuthey 2000 Madhavan Shalini Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "R. Madhavan",
+    "Shalini (actress, born 1979)",
+    "Jayasudha",
+    "Swarnamalya",
+    "Vivek (actor)",
+    "Pyramid Natarajan",
+    "Sriranjani (Tamil actress)",
+    "Venu Arvind",
+    "K. P. A. C. Lalitha",
+    "Sukumari",
+    "Azhagam Perumal",
+    "Karthik Kumar"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Madhavan. reception src: keywords: critical acclaim, critically acclaimed. cat=superstar"
+  },
+  {
+   "id": "vikram-vedha-2017",
+   "title": "Vikram Vedha",
+   "year": 2017,
+   "category": "superstar",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "vikram vedha",
+    "vikramvedha"
+   ],
+   "poster_query": "Vikram Vedha 2017 Madhavan Vijay Sethupathi Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "R. Madhavan",
+    "Prem Kumar (Tamil actor)",
+    "Achyuth Kumar",
+    "K. Manikandan",
+    "E. Ramdoss",
+    "Vijay Sethupathi",
+    "Hareesh Peradi",
+    "Vivek Prasanna",
+    "R. Amarendran",
+    "Shraddha Srinath",
+    "Varalaxmi Sarathkumar",
+    "Kathir (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vijay Sethupathi. reception src: keywords: commercial success, critical acclaim. cat=superstar"
+  },
+  {
+   "id": "thani-oruvan-2015",
+   "title": "Thani Oruvan",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "Jayam Ravi",
+   "answers": [
+    "thani oruvan",
+    "thanioruvan"
+   ],
+   "poster_query": "Thani Oruvan 2015 Jayam Ravi Arvind Swamy Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Ravi Mohan",
+    "Arvind Swamy",
+    "Nayanthara",
+    "Thambi Ramaiah",
+    "Ganesh Venkatraman",
+    "Harish Uthaman",
+    "Sricharan",
+    "Rahul Madhav",
+    "Nassar (actor)",
+    "Vamsi Krishna",
+    "Ashish Vidyarthi",
+    "Suhasini Maniratnam"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Jayam Ravi. reception src: keywords: commercial success, critical acclaim. cat=midtier"
+  },
+  {
+   "id": "ratsasan-2018",
+   "title": "Ratsasan",
+   "year": 2018,
+   "category": "midtier",
+   "hero": "Vishnu Vishal",
+   "answers": [
+    "ratsasan",
+    "rakshasan"
+   ],
+   "poster_query": "Ratsasan 2018 Vishnu Vishal Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Vishnu Vishal",
+    "Amala Paul",
+    "Radha Ravi",
+    "Sangili Murugan",
+    "Nizhalgal Ravi",
+    "Kaali Venkat",
+    "Munishkanth",
+    "Vinodhini Vaidyanathan",
+    "Suzane George",
+    "Vinod Sagar",
+    "Sanjay Vellanki",
+    "Ammu Abhirami"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vishnu Vishal. reception src: keywords: commercial success, critical acclaim. cat=midtier"
+  },
+  {
+   "id": "naanum-rowdy-dhaan-2015",
+   "title": "Naanum Rowdy Dhaan",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "naanum rowdy dhaan",
+    "nrd"
+   ],
+   "poster_query": "Naanum Rowdy Dhaan 2015 Vijay Sethupathi Nayanthara Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Vijay Sethupathi",
+    "Nayanthara",
+    "Anikha Surendran",
+    "Radikaa Sarathkumar",
+    "RJ Balaji",
+    "Rajendran",
+    "Azhagam Perumal",
+    "Anandaraj",
+    "R. Sundarrajan",
+    "Mansoor Ali Khan (actor)",
+    "R. N. R. Manohar",
+    "Meenakshi (actress)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vijay Sethupathi. reception src: no clear verdict keyword. cat=midtier"
+  },
+  {
+   "id": "soodhu-kavvum-2013",
+   "title": "Soodhu Kavvum",
+   "year": 2013,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "soodhu kavvum",
+    "sudhu kavvum"
+   ],
+   "poster_query": "Soodhu Kavvum 2013 Vijay Sethupathi Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Vijay Sethupathi",
+    "Sanchita Shetty",
+    "Karunakaran (actor)",
+    "Bobby Simha",
+    "Ramesh Thilak",
+    "Ashok Selvan",
+    "Yog Japee",
+    "Aruldoss",
+    "M. S. Bhaskar",
+    "Radha Ravi",
+    "Yogi Babu",
+    "Anjali Rao (actress)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vijay Sethupathi. reception src: keywords: commercial success, critical acclaim. cat=midtier"
+  },
+  {
+   "id": "oru-kal-oru-kannadi-2012",
+   "title": "Oru Kal Oru Kannadi",
+   "year": 2012,
+   "category": "midtier",
+   "hero": "Udhayanidhi Stalin",
+   "answers": [
+    "oru kal oru kannadi",
+    "okok"
+   ],
+   "poster_query": "Oru Kal Oru Kannadi 2012 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Udhayanidhi Stalin",
+    "Hansika Motwani",
+    "Santhanam (actor)",
+    "Saranya Ponvannan",
+    "Sayaji Shinde",
+    "Azhagam Perumal",
+    "Mahanadi Shankar",
+    "Swaminathan",
+    "Narayan Lucky",
+    "Lollu Sabha Seshu",
+    "Uma Padmanabhan",
+    "Jangiri Madhumitha"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Udhayanidhi Stalin. reception src: keywords: commercial success, super hit. cat=midtier"
+  },
+  {
+   "id": "maanagaram-2017",
+   "title": "Maanagaram",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Sundeep Kishan",
+   "answers": [
+    "maanagaram",
+    "managaram"
+   ],
+   "poster_query": "Maanagaram 2017 Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Sri Natarajan",
+    "Sundeep Kishan",
+    "Regina Cassandra",
+    "Charle",
+    "Munishkanth",
+    "Madhusudhan Rao (actor)",
+    "Arun Alexander",
+    "Shah Ra",
+    "Sai Dheena",
+    "R. S. Karthik",
+    "Vivek Prasanna",
+    "Thangadurai (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Sundeep Kishan. reception src: keywords: blockbuster. cat=midtier"
+  },
+  {
+   "id": "goli-soda-2014",
+   "title": "Goli Soda",
+   "year": 2014,
+   "category": "midtier",
+   "hero": "Ensemble",
+   "answers": [
+    "goli soda",
+    "golisoda"
+   ],
+   "poster_query": "Goli Soda 2014 Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Kishore DS",
+    "Sree Raam",
+    "Thamizh (actor)",
+    "Madhusudhan Rao (actor)",
+    "Sujatha Sivakumar",
+    "Imman Annachi",
+    "Senthi Kumari",
+    "Meenal",
+    "Sampath Ram",
+    "T. Rajendar",
+    "Srinivasan (actor)",
+    "Sam Anderson (Tamil actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Ensemble. reception src: keywords: critical acclaim. cat=midtier"
+  },
+  {
+   "id": "mundasupatti-2014",
+   "title": "Mundasupatti",
+   "year": 2014,
+   "category": "midtier",
+   "hero": "Vishnu Vishal",
+   "answers": [
+    "mundasupatti",
+    "mundaasupatti"
+   ],
+   "poster_query": "Mundasupatti 2014 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Vishnu Vishal",
+    "Nandita Swetha",
+    "Anandaraj",
+    "Kaali Venkat",
+    "Munishkanth",
+    "Lollu Sabha Manohar",
+    "Supergood Subramani",
+    "Vinod Sagar"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vishnu Vishal. reception src: hit. cat=midtier"
+  },
+  {
+   "id": "comali-2019",
+   "title": "Comali",
+   "year": 2019,
+   "category": "midtier",
+   "hero": "Jayam Ravi",
+   "answers": [
+    "comali",
+    "komali"
+   ],
+   "poster_query": "Comali 2019 Jayam Ravi Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Ravi Mohan",
+    "Kajal Aggarwal",
+    "Samyuktha Hegde",
+    "Yogi Babu",
+    "K. S. Ravikumar",
+    "Shah Ra",
+    "Vinodhini Vaidyanathan",
+    "Kavita Radheshyam",
+    "Praveena",
+    "Aadukalam Naren",
+    "Ponnambalam (actor)",
+    "Varun (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Jayam Ravi. reception src: keywords: commercially successful, superhit. cat=midtier"
+  },
+  {
+   "id": "boss-engira-bhaskaran-2010",
+   "title": "Boss Engira Bhaskaran",
+   "year": 2010,
+   "category": "midtier",
+   "hero": "Arya",
+   "answers": [
+    "boss engira bhaskaran",
+    "beb"
+   ],
+   "poster_query": "Boss Engira Bhaskaran 2010 Arya Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Arya (actor)",
+    "Nayanthara",
+    "Santhanam (actor)",
+    "Subbu Panchu",
+    "Chitra Lakshmanan",
+    "Rajendran",
+    "Swaminathan",
+    "Ashvin Raja",
+    "Vijayalakshmi (Kannada actress)",
+    "Lakshmy Ramakrishnan",
+    "Shakeela",
+    "Jiiva"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Arya. reception src: keywords: commercially successful. cat=midtier"
+  },
+  {
+   "id": "raja-rani-2013",
+   "title": "Raja Rani",
+   "year": 2013,
+   "category": "midtier",
+   "hero": "Arya",
+   "answers": [
+    "raja rani",
+    "rajarani"
+   ],
+   "poster_query": "Raja Rani 2013 Arya Nayanthara Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Arya (actor)",
+    "Jai (actor)",
+    "Nayanthara",
+    "Nazriya Nazim",
+    "Santhanam (actor)",
+    "Sathyan (Tamil actor)",
+    "Sathyaraj",
+    "Manobala",
+    "Singamuthu",
+    "Rajendran",
+    "Dhanya Balakrishna",
+    "Meesha Ghoshal"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Arya. reception src: keywords: blockbuster, blockbuster success. cat=midtier"
+  },
+  {
+   "id": "madrasapattinam-2010",
+   "title": "Madrasapattinam",
+   "year": 2010,
+   "category": "midtier",
+   "hero": "Arya",
+   "answers": [
+    "madrasapattinam",
+    "madras pattinam"
+   ],
+   "poster_query": "Madrasapattinam 2010 Arya Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Arya (actor)",
+    "Amy Jackson",
+    "Nassar (actor)",
+    "Cochin Haneefa",
+    "Alexx O'Nell",
+    "Lisa Lazarus",
+    "M. S. Bhaskar",
+    "Bala Singh",
+    "Sathish",
+    "Elango Kumaravel",
+    "Balaji Venugopal",
+    "Lollu Sabha Jeeva"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Arya. reception src: keywords: above average. cat=midtier"
+  },
+  {
+   "id": "meesaya-murukku-2017",
+   "title": "Meesaya Murukku",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Hiphop Tamizha",
+   "answers": [
+    "meesaya murukku",
+    "meesaya murrukku"
+   ],
+   "poster_query": "Meesaya Murukku 2017 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Hiphop Tamizha",
+    "Aathmika",
+    "Vivek (actor)",
+    "RJ Vigneshkanth",
+    "Vijayalakshmi (Kannada actress)",
+    "Ma Ka Pa Anand",
+    "Shah Ra",
+    "Parithabangal Gopi–Sudhakar",
+    "Ashwanth Thilak",
+    "Vishal (actor)",
+    "Sundar C"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Hiphop Tamizha. reception src: hit. cat=midtier"
+  },
+  {
+   "id": "sethupathi-2016",
+   "title": "Sethupathi",
+   "year": 2016,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "sethupathi"
+   ],
+   "poster_query": "Sethupathi 2016 Vijay Sethupathi Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Vijay Sethupathi",
+    "Remya Nambessan",
+    "Vela Ramamoorthy",
+    "Mime Gopi",
+    "Vivek Prasanna",
+    "Linga (actor)",
+    "Raaghavan",
+    "Redin Kingsley",
+    "TSR Srinivasan"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vijay Sethupathi. reception src: hit. cat=midtier"
+  },
+  {
+   "id": "maragadha-naanayam-2017",
+   "title": "Maragadha Naanayam",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Aadhi",
+   "answers": [
+    "maragadha naanayam",
+    "maragatha naanayam"
+   ],
+   "poster_query": "Maragadha Naanayam 2017 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Aadhi Pinisetty",
+    "Nikki Galrani",
+    "Anandaraj",
+    "Munishkanth",
+    "Daniel Annie Pope",
+    "M. S. Bhaskar",
+    "Mime Gopi",
+    "Sangili Murugan",
+    "Arunraja Kamaraj",
+    "Brahmanandam",
+    "Kota Srinivasa Rao",
+    "Kaali Venkat"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Aadhi. reception src: keywords: commercially successful. cat=midtier"
+  },
+  {
+   "id": "darling-2015",
+   "title": "Darling",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "G. V. Prakash Kumar",
+   "answers": [
+    "darling"
+   ],
+   "poster_query": "Darling 2015 GV Prakash Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [],
+   "found": true,
+   "wiki_notes": "lead: G. V. Prakash Kumar; no cast/starring parsed. reception src: no clear verdict keyword. cat=midtier"
+  },
+  {
+   "id": "kirumi-2015",
+   "title": "Kirumi",
+   "year": 2015,
+   "category": "midtier",
+   "hero": "Kathir",
+   "answers": [
+    "kirumi"
+   ],
+   "poster_query": "Kirumi 2015 Kathir Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Kathir (actor)",
+    "Reshmi Menon",
+    "Charle",
+    "Yogi Babu",
+    "G. Marimuthu",
+    "Thennavan (actor)",
+    "Vanitha Krishnachandran",
+    "Sai Dheena",
+    "Vinod Sagar",
+    "Supergood Subramani"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Kathir. reception src: keywords: disaster. cat=midtier"
+  },
+  {
+   "id": "theeran-2017",
+   "title": "Theeran Adhigaaram Ondru",
+   "year": 2017,
+   "category": "midtier",
+   "hero": "Karthi",
+   "answers": [
+    "theeran adhigaaram ondru",
+    "theeran"
+   ],
+   "poster_query": "Theeran Adhigaaram Ondru 2017 Karthi Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Karthi",
+    "Rakul Preet Singh",
+    "Abhimanyu Singh",
+    "Bose Venkat",
+    "Praveena",
+    "Manobala",
+    "Kalyani Natarajan",
+    "Sathyan (Tamil actor)",
+    "Sonia (actress)",
+    "R. N. R. Manohar",
+    "Ammu Abhirami",
+    "Kishor Kadam"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Karthi. reception src: keywords: commercial success, critical acclaim. cat=midtier"
+  },
+  {
+   "id": "paruthiveeran-2007",
+   "title": "Paruthiveeran",
+   "year": 2007,
+   "category": "midtier",
+   "hero": "Karthi",
+   "answers": [
+    "paruthiveeran",
+    "paruthi veeran"
+   ],
+   "poster_query": "Paruthiveeran 2007 Karthi Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Karthi",
+    "Priyamani",
+    "Ponvannan",
+    "Saravanan (actor)",
+    "Sujatha Sivakumar",
+    "Ganja Karuppu",
+    "Sampath Raj",
+    "Mu Ramaswamy",
+    "Samuthirakani"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Karthi. reception src: keywords: commercial success, commercially successful, critical acclaim. cat=midtier"
+  },
+  {
+   "id": "oru-nalla-naal-2018",
+   "title": "Oru Nalla Naal Paathu Solren",
+   "year": 2018,
+   "category": "midtier",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "oru nalla naal paathu solren",
+    "onnps"
+   ],
+   "poster_query": "Oru Nalla Naal Paathu Solren 2018 Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Vijay Sethupathi",
+    "Gautham Ram Karthik",
+    "Niharika Konidela",
+    "Gayathrie Shankar",
+    "Viji Chandrasekhar",
+    "Ramesh Thilak",
+    "Daniel Annie Pope",
+    "Rajkumar (Tamil actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Vijay Sethupathi. reception src: no clear verdict keyword. cat=midtier"
+  },
+  {
+   "id": "aruvi-2017",
+   "title": "Aruvi",
+   "year": 2016,
+   "category": "female_led",
+   "hero": "Aditi Balan",
+   "answers": [
+    "aruvi"
+   ],
+   "poster_query": "Aruvi 2017 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Aditi Balan",
+    "Praniti",
+    "Mohammad Ali Baig",
+    "Lakshmi Gopalaswamy"
+   ],
+   "found": true,
+   "wiki_notes": "lead: Aditi Balan; female-led per category. reception src: hit. cat=female_led"
+  },
+  {
+   "id": "36-vayadhinile-2015",
+   "title": "36 Vayadhinile",
+   "year": 2015,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "36 vayadhinile",
+    "36 vayathinile",
+    "36"
+   ],
+   "poster_query": "36 Vayadhinile 2015 Jyothika Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Jyothika",
+    "Rahman (actor)",
+    "Nassar (actor)",
+    "Ilavarasu",
+    "Siddhartha Basu",
+    "Abhirami (actress, born 1983)",
+    "Sethu Lakshmi",
+    "Delhi Ganesh",
+    "M. S. Bhaskar",
+    "Bose Venkat",
+    "Prem (actor)",
+    "Kalaranjini"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Jyothika; billing_top=Jyothika"
+  },
+  {
+   "id": "magalir-mattum-2017",
+   "title": "Magalir Mattum",
+   "year": 2017,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "magalir mattum",
+    "magalir matum"
+   ],
+   "poster_query": "Magalir Mattum 2017 Jyothika Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Urvashi (actress)",
+    "Bhanupriya",
+    "Saranya Ponvannan",
+    "Jyothika",
+    "Nassar (actor)",
+    "J. Livingston",
+    "Pavel Navageethan",
+    "Gokulnath",
+    "G. Marimuthu",
+    "Maya S. Krishnan",
+    "Semmalar Annam",
+    "Manobala"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Jyothika; billing_top=Urvashi (actress)"
+  },
+  {
+   "id": "aramm-2017",
+   "title": "Aramm",
+   "year": 2017,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "aramm",
+    "aram"
+   ],
+   "poster_query": "Aramm 2017 Nayanthara Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Nayanthara",
+    "Ramachandran Durairaj",
+    "Sunu Lakshmi",
+    "Kitty (actor)",
+    "Vela Ramamoorthy",
+    "E. Ramdoss",
+    "Jeeva Ravi",
+    "J. Vignesh",
+    "Kaakkaa Muttai Ramesh",
+    "R. S. G. Chelladurai",
+    "T. Siva",
+    "Vinodhini Vaidyanathan"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Nayanthara; billing_top=Nayanthara"
+  },
+  {
+   "id": "mookuthi-amman-2020",
+   "title": "Mookuthi Amman",
+   "year": 2020,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "mookuthi amman",
+    "mookkuthi amman"
+   ],
+   "poster_query": "Mookuthi Amman 2020 Nayanthara Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Nayanthara",
+    "RJ Balaji",
+    "Urvashi (actress)",
+    "Smruthi Venkat",
+    "T. S. B. K. Moulee",
+    "Ajay Ghosh",
+    "L. R. Eswari",
+    "Mayilsamy",
+    "Indhuja Ravichandran",
+    "Yashika Aannand"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Nayanthara; billing_top=Nayanthara"
+  },
+  {
+   "id": "kaatrin-mozhi-2018",
+   "title": "Kaatrin Mozhi",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "kaatrin mozhi",
+    "katrin mozhi"
+   ],
+   "poster_query": "Kaatrin Mozhi 2018 Jyothika Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Jyothika",
+    "Vidharth",
+    "Lakshmi Manchu",
+    "Elango Kumaravel",
+    "Sindhu Shyam",
+    "Sandra Amy",
+    "Narayan Lucky",
+    "Mohan Ram",
+    "M. S. Bhaskar",
+    "Manobala",
+    "Uma (Tamil actress)",
+    "Mayilsamy"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Jyothika; billing_top=Jyothika"
+  },
+  {
+   "id": "raatchasi-2019",
+   "title": "Raatchasi",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Priya Bhavani Shankar",
+   "answers": [
+    "raatchasi",
+    "ratchasi"
+   ],
+   "poster_query": "Raatchasi 2019 Priya Bhavani Shankar Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Jyothika",
+    "Hareesh Peradi",
+    "Poornima Bhagyaraj",
+    "Sathyan (Tamil actor)",
+    "Nagineedu",
+    "Aruldoss",
+    "Five Star Krishna",
+    "Sathyajith (Tamil actor)",
+    "Nitish Veera"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Priya Bhavani Shankar; billing_top=Jyothika"
+  },
+  {
+   "id": "kanaa-2018",
+   "title": "Kanaa",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Aishwarya Rajesh",
+   "answers": [
+    "kanaa",
+    "kana"
+   ],
+   "poster_query": "Kanaa 2018 Aishwarya Rajesh Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Sathyaraj",
+    "Sivakarthikeyan",
+    "Aishwarya Rajesh",
+    "Darshan (Tamil actor)",
+    "Rama (actress)",
+    "Ilavarasu",
+    "Ramdoss",
+    "Kali Prasad Mukherjee",
+    "Namo Narayana",
+    "Balaji Venugopal",
+    "Sushree Dibyadarshini"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Aishwarya Rajesh; billing_top=Sathyaraj"
+  },
+  {
+   "id": "penguin-2020",
+   "title": "Penguin",
+   "year": 2020,
+   "category": "female_led",
+   "hero": "Keerthy Suresh",
+   "answers": [
+    "penguin"
+   ],
+   "poster_query": "Penguin 2020 Keerthy Suresh Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Keerthy Suresh",
+    "Linga (actor)",
+    "Madhampatty Rangaraj"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Keerthy Suresh; billing_top=Keerthy Suresh"
+  },
+  {
+   "id": "game-over-2019",
+   "title": "Game Over",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Taapsee Pannu",
+   "answers": [
+    "game over"
+   ],
+   "poster_query": "Game Over 2019 Taapsee Pannu Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Taapsee Pannu",
+    "Vinodhini Vaidyanathan",
+    "Anish Kuruvilla",
+    "Sanchana Natarajan",
+    "Ramya Subramanian",
+    "Parvathi T."
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Taapsee Pannu; billing_top=Taapsee Pannu"
+  },
+  {
+   "id": "kolamaavu-kokila-2018",
+   "title": "Kolamaavu Kokila",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Nayanthara",
+   "answers": [
+    "kolamaavu kokila",
+    "coco",
+    "kolamavu kokila"
+   ],
+   "poster_query": "Kolamaavu Kokila 2018 Nayanthara Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Nayanthara",
+    "Saranya Ponvannan",
+    "Saravanan (actor)",
+    "Yogi Babu",
+    "Rajendran",
+    "Hareesh Peradi",
+    "R. S. Shivaji",
+    "Cheenu Mohan",
+    "Charles Vinoth",
+    "Arun Alexander",
+    "Aranthangi Nisha",
+    "Srilekha Parthasarathy"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Nayanthara; billing_top=Nayanthara"
+  },
+  {
+   "id": "jackpot-2019",
+   "title": "Jackpot",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "jackpot"
+   ],
+   "poster_query": "Jackpot 2019 Jyothika Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Jyothika",
+    "Revathi",
+    "Yogi Babu",
+    "Anandaraj",
+    "Rajendran",
+    "Mansoor Ali Khan (actor)",
+    "Sachu",
+    "Manobala",
+    "Mime Gopi",
+    "Devadarshini",
+    "Jagan (actor)",
+    "Imman Annachi"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Jyothika; billing_top=Jyothika"
+  },
+  {
+   "id": "naachiyaar-2018",
+   "title": "Naachiyaar",
+   "year": 2018,
+   "category": "female_led",
+   "hero": "Jyothika",
+   "answers": [
+    "naachiyaar",
+    "nachiyar"
+   ],
+   "poster_query": "Naachiyaar 2018 Jyothika Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Jyothika",
+    "G. V. Prakash Kumar",
+    "Ivana (actress)",
+    "Rockline Venkatesh",
+    "Kulappulli Leela"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Jyothika; billing_top=Jyothika"
+  },
+  {
+   "id": "kaatru-veliyidai-2017",
+   "title": "Kaatru Veliyidai",
+   "year": 2017,
+   "category": "female_led",
+   "hero": "Aditi Rao Hydari",
+   "answers": [
+    "kaatru veliyidai",
+    "katru veliyidai"
+   ],
+   "poster_query": "Kaatru Veliyidai 2017 Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Karthi",
+    "Aditi Rao Hydari",
+    "K. P. A. C. Lalitha",
+    "Uday Mahesh",
+    "Rukmini Vijayakumar",
+    "Shraddha Srinath",
+    "RJ Balaji",
+    "Delhi Ganesh",
+    "Sivakumar Ananth",
+    "Vipin Sharma",
+    "Mir Sarwar",
+    "Harish Raj"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Aditi Rao Hydari; billing_top=Karthi"
+  },
+  {
+   "id": "sillu-karupatti-2019",
+   "title": "Sillu Karupatti",
+   "year": 2019,
+   "category": "female_led",
+   "hero": "Ensemble",
+   "answers": [
+    "sillu karupatti",
+    "sillukarupatti"
+   ],
+   "poster_query": "Sillu Karupatti 2019 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Sara Arjun",
+    "K. Manikandan",
+    "Nivedhithaa Sathish",
+    "Leela Samson",
+    "Semmalar Annam",
+    "Samuthirakani",
+    "Sunaina",
+    "Deepa Shankar"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=female_led/Ensemble; billing_top=Sara Arjun"
+  },
+  {
+   "id": "subramaniapuram-2008",
+   "title": "Subramaniapuram",
+   "year": 2008,
+   "category": "character_driven",
+   "hero": "Jai",
+   "answers": [
+    "subramaniapuram",
+    "subramania puram"
+   ],
+   "poster_query": "Subramaniapuram 2008 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Jai (actor)",
+    "Swathi Reddy",
+    "M. Sasikumar",
+    "Ganja Karuppu",
+    "P. Samuthirakani",
+    "Kaajal Pasupathi"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Jai; billing_top=Jai (actor)"
+  },
+  {
+   "id": "pariyerum-perumal-2018",
+   "title": "Pariyerum Perumal",
+   "year": 2018,
+   "category": "character_driven",
+   "hero": "Kathir",
+   "answers": [
+    "pariyerum perumal",
+    "pariyerum peruma"
+   ],
+   "poster_query": "Pariyerum Perumal 2018 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Kathir (actor)",
+    "Anandhi (actress)",
+    "Yogi Babu",
+    "Lingesh",
+    "Hari Krishnan (Tamil actor)",
+    "Shanmugarajan",
+    "G. Marimuthu",
+    "Poo Ramu",
+    "Lizzie Antony",
+    "Supergood Subramani",
+    "Anthony Daasan"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Kathir; billing_top=Kathir (actor)"
+  },
+  {
+   "id": "visaranai-2015",
+   "title": "Visaranai",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Dinesh",
+   "answers": [
+    "visaranai",
+    "visaaranai"
+   ],
+   "poster_query": "Visaranai 2015 Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Attakathi Dinesh",
+    "Aadukalam Murugadoss",
+    "Samuthirakani",
+    "Kishore (actor, born 1974)",
+    "E. Ramdoss",
+    "Ajay Ghosh",
+    "Anandhi (actress)",
+    "Misha Ghoshal",
+    "Saravana Subbiah",
+    "Halwa Vasu",
+    "Munnar Ramesh",
+    "Supergood Subramani"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Dinesh; billing_top=Attakathi Dinesh"
+  },
+  {
+   "id": "aaranya-kaandam-2011",
+   "title": "Aaranya Kaandam",
+   "year": 2011,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "aaranya kaandam",
+    "aranya kaandam"
+   ],
+   "poster_query": "Aaranya Kaandam 2011 Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Jackie Shroff",
+    "Ravi Krishna (actor, born 1983)",
+    "Sampath Raj",
+    "Yasmin Ponnappa",
+    "Guru Somasundaram",
+    "Sai Dheena",
+    "Ajay Raj",
+    "Five Star Krishna"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Ensemble; billing_top=Jackie Shroff; commercial failure but critical success"
+  },
+  {
+   "id": "jigarthanda-2014",
+   "title": "Jigarthanda",
+   "year": 2014,
+   "category": "character_driven",
+   "hero": "Siddharth",
+   "answers": [
+    "jigarthanda",
+    "jigar thanda"
+   ],
+   "poster_query": "Jigarthanda 2014 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Siddharth (actor)",
+    "Lakshmi Menon (actress)",
+    "Bobby Simha",
+    "Vijay Sethupathi",
+    "Nassar (actor)",
+    "Karunakaran (actor)",
+    "Aadukalam Naren",
+    "Ambika (actress)",
+    "Sangili Murugan",
+    "Delhi Ganesh",
+    "Bombay Gnanam",
+    "Ajay Rathnam"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Siddharth; billing_top=Siddharth (actor)"
+  },
+  {
+   "id": "kaaka-muttai-2015",
+   "title": "Kaaka Muttai",
+   "year": 2015,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "kaaka muttai",
+    "kaka muttai",
+    "crow's egg"
+   ],
+   "poster_query": "Kaaka Muttai 2015 Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "J. Vignesh",
+    "Kaakkaa Muttai Ramesh",
+    "Aishwarya Rajesh",
+    "Nivas Adithan",
+    "Babu Antony",
+    "Joe Malloori",
+    "Ramesh Thilak",
+    "Yogi Babu",
+    "Krishnamoorthy (actor)",
+    "Silambarasan"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Ensemble; billing_top=J. Vignesh"
+  },
+  {
+   "id": "attakathi-2012",
+   "title": "Attakathi",
+   "year": 2012,
+   "category": "character_driven",
+   "hero": "Dinesh",
+   "answers": [
+    "attakathi",
+    "atta kathi"
+   ],
+   "poster_query": "Attakathi 2012 Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Dinesh Ravi",
+    "Nandita Swetha",
+    "Aishwarya Rajesh",
+    "Kalaiyarasan",
+    "Kabali Vishwanth",
+    "Jangiri Madhumitha",
+    "Hari Krishnan (Tamil actor)",
+    "Yogi Babu",
+    "Abi Saravanan"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Dinesh; billing_top=Dinesh Ravi"
+  },
+  {
+   "id": "cuckoo-2014",
+   "title": "Cuckoo",
+   "year": 2014,
+   "category": "character_driven",
+   "hero": "Dinesh",
+   "answers": [
+    "cuckoo",
+    "kuckoo"
+   ],
+   "poster_query": "Cuckoo 2014 Tamil movie poster",
+   "reception": "average",
+   "verified_cast": [
+    "V R Dinesh",
+    "Malvika Nair",
+    "Aadukalam Murugadoss",
+    "E. Ramdoss",
+    "Lizzie Antony",
+    "Raju Murugan",
+    "N. Linguswamy"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Dinesh; billing_top=V R Dinesh"
+  },
+  {
+   "id": "joker-2016",
+   "title": "Joker",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Guru Somasundaram",
+   "answers": [
+    "joker"
+   ],
+   "poster_query": "Joker 2016 Tamil movie Raju Murugan poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Guru Somasundaram",
+    "Ramya Pandian",
+    "Mu Ramaswamy",
+    "Bava Chelladurai"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Guru Somasundaram; billing_top=Guru Somasundaram"
+  },
+  {
+   "id": "koozhangal-2021",
+   "title": "Koozhangal",
+   "year": 2021,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "koozhangal",
+    "pebbles",
+    "koozhankal"
+   ],
+   "poster_query": "Koozhangal Pebbles 2021 Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Chellapandi",
+    "Karuththadaiyaan"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Ensemble; billing_top=Chellapandi"
+  },
+  {
+   "id": "kadaisi-vivasayi-2022",
+   "title": "Kadaisi Vivasayi",
+   "year": 2022,
+   "category": "character_driven",
+   "hero": "Nallandi",
+   "answers": [
+    "kadaisi vivasayi",
+    "the last farmer"
+   ],
+   "poster_query": "Kadaisi Vivasayi 2022 Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Nallandi",
+    "Raichal Rabecca",
+    "Vijay Sethupathi",
+    "Yogi Babu"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Nallandi; billing_top=Nallandi"
+  },
+  {
+   "id": "merku-thodarchi-malai-2018",
+   "title": "Merku Thodarchi Malai",
+   "year": 2018,
+   "category": "character_driven",
+   "hero": "Antony",
+   "answers": [
+    "merku thodarchi malai",
+    "western ghats"
+   ],
+   "poster_query": "Merku Thodarchi Malai 2018 Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Antony",
+    "Gayathri Krishnaa",
+    "Abu Valayankulam"
+   ],
+   "found": true,
+   "wiki_notes": "assigned=character_driven/Antony; billing_top=Antony"
+  },
+  {
+   "id": "kumki-2012",
+   "title": "Kumki",
+   "year": 2012,
+   "category": "character_driven",
+   "hero": "Vikram Prabhu",
+   "answers": [
+    "kumki"
+   ],
+   "poster_query": "Kumki 2012 Vikram Prabhu Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Vikram Prabhu",
+    "Lakshmi Menon (actress)",
+    "Thambi Ramaiah",
+    "Ashvin Raja",
+    "Junior Balaiah",
+    "Joe Malloori",
+    "Yaar Kannan",
+    "Sreejith Ravi",
+    "Munnar Ramesh",
+    "Manickam"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vikram Prabhu"
+  },
+  {
+   "id": "peranbu-2019",
+   "title": "Peranbu",
+   "year": 2018,
+   "category": "character_driven",
+   "hero": "Mammootty",
+   "answers": [
+    "peranbu",
+    "peranpu"
+   ],
+   "poster_query": "Peranbu 2019 Mammootty Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Mammootty",
+    "Anjali (actress)",
+    "Sadhana",
+    "Anjali Ameer",
+    "Lizzie Antony",
+    "Vadivukkarasi",
+    "J. Livingston",
+    "Aruldoss",
+    "Pavel Navageethan",
+    "Shanmugarajan",
+    "P. L. Thenappan",
+    "G. R. Adithya"
+   ],
+   "found": true,
+   "wiki_notes": "lead Mammootty; ensemble cast"
+  },
+  {
+   "id": "pudhupettai-2006",
+   "title": "Pudhupettai",
+   "year": 2006,
+   "category": "character_driven",
+   "hero": "Dhanush",
+   "answers": [
+    "pudhupettai",
+    "pudupettai"
+   ],
+   "poster_query": "Pudhupettai 2006 Dhanush Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Dhanush",
+    "Sonia Agarwal",
+    "Sneha (actress)",
+    "Azhagam Perumal",
+    "Bala Singh",
+    "Prudhvi Raj",
+    "Nitish Veera",
+    "Munnar Ramesh",
+    "Thennavan (actor)",
+    "Bharathi Mani",
+    "Aadukalam Murugadoss",
+    "Vijay Sethupathi"
+   ],
+   "found": true,
+   "wiki_notes": "lead Dhanush"
+  },
+  {
+   "id": "karnan-2021",
+   "title": "Karnan",
+   "year": 2021,
+   "category": "character_driven",
+   "hero": "Dhanush",
+   "answers": [
+    "karnan"
+   ],
+   "poster_query": "Karnan 2021 Dhanush Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Dhanush",
+    "Rajisha Vijayan",
+    "Lal (actor)",
+    "Yogi Babu",
+    "Gouri G. Kishan",
+    "Jagan (actor)",
+    "Lakshmi Priyaa Chandramouli",
+    "Natty Subramaniam",
+    "G. M. Kumar",
+    "Delhi Ganesh",
+    "Shanmugarajan",
+    "Singampuli"
+   ],
+   "found": true,
+   "wiki_notes": "lead Dhanush; ensemble cast"
+  },
+  {
+   "id": "iraivi-2016",
+   "title": "Iraivi",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Ensemble",
+   "answers": [
+    "iraivi"
+   ],
+   "poster_query": "Iraivi 2016 Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "S. J. Suryah",
+    "Vijay Sethupathi",
+    "Bobby Simha",
+    "Vaibhav Reddy",
+    "Anjali (actress)",
+    "Kamalinee Mukherjee",
+    "Pooja Devariya",
+    "Radha Ravi",
+    "Karunakaran (actor)",
+    "Cheenu Mohan",
+    "R. K. Vijay Murugan",
+    "Gajaraj"
+   ],
+   "found": true,
+   "wiki_notes": "lead S. J. Suryah; ensemble cast"
+  },
+  {
+   "id": "aandavan-kattalai-2016",
+   "title": "Aandavan Kattalai",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Vijay Sethupathi",
+   "answers": [
+    "aandavan kattalai",
+    "andavan kattalai"
+   ],
+   "poster_query": "Aandavan Kattalai 2016 Vijay Sethupathi Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Vijay Sethupathi",
+    "Ritika Singh",
+    "Pooja Devariya",
+    "Nassar (actor)",
+    "Yogi Babu",
+    "George Maryan",
+    "Singampuli",
+    "A. Venkatesh",
+    "S. S. Stanley",
+    "Aravindhan",
+    "Hareesh Peradi",
+    "Vinodhini Vaidyanathan"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vijay Sethupathi"
+  },
+  {
+   "id": "angadi-theru-2010",
+   "title": "Angadi Theru",
+   "year": 2010,
+   "category": "character_driven",
+   "hero": "Mahesh",
+   "answers": [
+    "angadi theru",
+    "angaadi theru"
+   ],
+   "poster_query": "Angadi Theru 2010 Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Mahesh (Tamil actor)",
+    "Anjali (actress)",
+    "Sneha (actress)",
+    "A. Venkatesh (director)",
+    "Pandi (actor)",
+    "John Vijay",
+    "Pala. Karuppiah",
+    "Imman Annachi",
+    "Sindhu",
+    "Vikramadithyan",
+    "Pazhani Kumar",
+    "Ember Vedha"
+   ],
+   "found": true,
+   "wiki_notes": "lead Mahesh"
+  },
+  {
+   "id": "naan-kadavul-2009",
+   "title": "Naan Kadavul",
+   "year": 2009,
+   "category": "character_driven",
+   "hero": "Arya",
+   "answers": [
+    "naan kadavul",
+    "nan kadavul"
+   ],
+   "poster_query": "Naan Kadavul 2009 Arya Bala Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Arya (actor)",
+    "Pooja Umashanker",
+    "Vijaya Bharathi",
+    "Ranjini Hariharan",
+    "Krishnamoorthy (actor)",
+    "Rajendran",
+    "Meesai Rajendran",
+    "Singampuli",
+    "Murugan"
+   ],
+   "found": true,
+   "wiki_notes": "lead Arya"
+  },
+  {
+   "id": "mynaa-2010",
+   "title": "Mynaa",
+   "year": 2010,
+   "category": "character_driven",
+   "hero": "Vidharth",
+   "answers": [
+    "mynaa",
+    "myna"
+   ],
+   "poster_query": "Mynaa 2010 Tamil movie poster",
+   "reception": "blockbuster",
+   "verified_cast": [
+    "Vidharth (actor)",
+    "Amala Paul",
+    "Sethu (actor)",
+    "Prabhu (actor)",
+    "Thambi Ramaiah",
+    "G. M. Kumar",
+    "Suzane George",
+    "Semmalar Annam",
+    "Sevvalai Rasu",
+    "Karthik",
+    "Vengaiya Balan",
+    "Hello Kandasamy"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vidharth"
+  },
+  {
+   "id": "autograph-2004",
+   "title": "Autograph",
+   "year": 2004,
+   "category": "character_driven",
+   "hero": "Cheran",
+   "answers": [
+    "autograph"
+   ],
+   "poster_query": "Autograph 2004 Cheran Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "Cheran (director)",
+    "Sneha (actress)",
+    "Kanika (actress)",
+    "Gopika",
+    "Mallika (actress)",
+    "Ilavarasu",
+    "Five Star Krishna",
+    "Benjamin (actor)",
+    "Rajesh (Tamil actor)",
+    "Vijaya Singh",
+    "Pandian Raj",
+    "E. V. Ganesh Babu"
+   ],
+   "found": true,
+   "wiki_notes": "lead Cheran; ensemble cast"
+  },
+  {
+   "id": "kutrame-thandanai-2016",
+   "title": "Kuttrame Thandanai",
+   "year": 2016,
+   "category": "character_driven",
+   "hero": "Vidharth",
+   "answers": [
+    "kuttrame thandanai",
+    "kutrame thandanai"
+   ],
+   "poster_query": "Kuttrame Thandanai 2016 Tamil movie poster",
+   "reception": "critically-acclaimed",
+   "verified_cast": [
+    "Vidharth",
+    "Aishwarya Rajesh",
+    "Pooja Devariya",
+    "Rahman (actor)",
+    "Guru Somasundaram",
+    "Srinish Aravind",
+    "Nassar (actor)",
+    "G. Marimuthu",
+    "Madhusudhan Rao (actor)",
+    "Yogi Babu",
+    "George Maryan",
+    "Pasi Sathya"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vidharth; ensemble cast"
+  },
+  {
+   "id": "baba-2002",
+   "title": "Baba",
+   "year": 2002,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "baba"
+   ],
+   "poster_query": "Baba 2002 Rajinikanth Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Manisha Koirala",
+    "Goundamani",
+    "M. N. Nambiar",
+    "Amrish Puri",
+    "Vijayakumar (Tamil actor)",
+    "Vasu Vikram",
+    "Delhi Ganesh",
+    "Karunas",
+    "Crane Manohar",
+    "N. Viswanathan",
+    "Kitty (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead Rajinikanth"
+  },
+  {
+   "id": "sura-2010",
+   "title": "Sura",
+   "year": 2010,
+   "category": "troll_washout",
+   "hero": "Vijay",
+   "answers": [
+    "sura"
+   ],
+   "poster_query": "Sura 2010 Vijay Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "C. Joseph Vijay",
+    "Tamannaah Bhatia",
+    "Dev Gill",
+    "Vadivelu",
+    "Sujatha Sivakumar",
+    "Sriman (actor)",
+    "Riyaz Khan",
+    "Ilavarasu",
+    "Yuvarani",
+    "Radha Ravi",
+    "Vennira Aadai Moorthy",
+    "Madhan Bob"
+   ],
+   "found": true,
+   "wiki_notes": "lead C. Joseph Vijay"
+  },
+  {
+   "id": "lingaa-2014",
+   "title": "Lingaa",
+   "year": 2014,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "lingaa",
+    "linga"
+   ],
+   "poster_query": "Lingaa 2014 Rajinikanth Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Anushka Shetty",
+    "Sonakshi Sinha",
+    "Jagapati Babu",
+    "K. Viswanath",
+    "Santhanam (actor)",
+    "Karunakaran (actor)",
+    "Brahmanandam",
+    "Dev Gill",
+    "Radha Ravi",
+    "Vijayakumar (Tamil actor)",
+    "Nizhalgal Ravi"
+   ],
+   "found": true,
+   "wiki_notes": "lead Rajinikanth; ensemble cast"
+  },
+  {
+   "id": "kochadaiiyaan-2014",
+   "title": "Kochadaiiyaan",
+   "year": 2014,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "kochadaiiyaan",
+    "kochadaiyaan"
+   ],
+   "poster_query": "Kochadaiiyaan 2014 Rajinikanth Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Deepika Padukone",
+    "Shobana",
+    "R. Sarathkumar",
+    "Aadhi Pinisetty",
+    "Rukmini Vijayakumar",
+    "Jackie Shroff",
+    "Nassar (actor)",
+    "Shanmugarajan"
+   ],
+   "found": true,
+   "wiki_notes": "lead Rajinikanth"
+  },
+  {
+   "id": "puli-2015",
+   "title": "Puli",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Vijay",
+   "answers": [
+    "puli"
+   ],
+   "poster_query": "Puli 2015 Vijay Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Vijay (actor)",
+    "Sridevi",
+    "Prabhu (actor)",
+    "Sudeep",
+    "Shruti Haasan",
+    "Hansika Motwani",
+    "Thambi Ramaiah",
+    "Sathyan (Tamil actor)",
+    "Nandita Swetha",
+    "Vijayakumar (Tamil actor)",
+    "Karunas",
+    "Ali (actor)"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vijay; ensemble cast"
+  },
+  {
+   "id": "kuruvi-2008",
+   "title": "Kuruvi",
+   "year": 2008,
+   "category": "troll_washout",
+   "hero": "Vijay",
+   "answers": [
+    "kuruvi"
+   ],
+   "poster_query": "Kuruvi 2008 Vijay Tamil movie poster",
+   "reception": "hit",
+   "verified_cast": [
+    "C. Joseph Vijay",
+    "Trisha (actress)",
+    "Suman (actor)",
+    "Vivek (actor)",
+    "Ashish Vidyarthi",
+    "Manivannan",
+    "T. K. Kala",
+    "Saranya Ponvannan",
+    "Nivetha Thomas",
+    "Ilavarasu",
+    "Sujatha Sivakumar",
+    "S. N. Lakshmi"
+   ],
+   "found": true,
+   "wiki_notes": "lead C. Joseph Vijay"
+  },
+  {
+   "id": "alex-pandian-2013",
+   "title": "Alex Pandian",
+   "year": 2013,
+   "category": "troll_washout",
+   "hero": "Karthi",
+   "answers": [
+    "alex pandian",
+    "alex pandiyan"
+   ],
+   "poster_query": "Alex Pandian 2013 Karthi Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Karthi",
+    "Anushka Shetty",
+    "Santhanam (actor)",
+    "Milind Soman",
+    "Suman (actor)",
+    "Visu",
+    "Prathap Pothen",
+    "Saravanan (actor)",
+    "Mahadevan (actor)",
+    "Nikita Thukral",
+    "Akanksha Puri",
+    "Sanusha"
+   ],
+   "found": true,
+   "wiki_notes": "lead Karthi; ensemble cast"
+  },
+  {
+   "id": "vaalu-2015",
+   "title": "Vaalu",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Silambarasan",
+   "answers": [
+    "vaalu",
+    "valu"
+   ],
+   "poster_query": "Vaalu 2015 Simbu Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Silambarasan",
+    "Hansika Motwani",
+    "N. Santhanam",
+    "VTV Ganesh",
+    "Brahmanandam",
+    "Aditya (actor)",
+    "Raasi (actress)",
+    "Aadukalam Naren",
+    "Sriranjani (Tamil actress)",
+    "Mahadevan (actor)",
+    "Misha Ghoshal",
+    "Namo Narayana"
+   ],
+   "found": true,
+   "wiki_notes": "lead Silambarasan"
+  },
+  {
+   "id": "aambala-2015",
+   "title": "Aambala",
+   "year": 2015,
+   "category": "troll_washout",
+   "hero": "Vishal",
+   "answers": [
+    "aambala",
+    "ambala"
+   ],
+   "poster_query": "Aambala 2015 Vishal Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Vishal (actor)",
+    "Hansika Motwani",
+    "Prabhu (actor)",
+    "Vaibhav Reddy",
+    "Sathish",
+    "Santhanam (actor)",
+    "Ramya Krishnan",
+    "Kiran Rathod",
+    "Aishwariyaa Bhaskaran",
+    "Nyra Banerjee",
+    "Maadhavi Latha",
+    "Tulasi (actress)"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vishal; ensemble cast"
+  },
+  {
+   "id": "sandakozhi-2-2018",
+   "title": "Sandakozhi 2",
+   "year": 2018,
+   "category": "troll_washout",
+   "hero": "Vishal",
+   "answers": [
+    "sandakozhi 2",
+    "sandakozhi 2"
+   ],
+   "poster_query": "Sandakozhi 2 2018 Vishal Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Vishal (actor)",
+    "Keerthy Suresh",
+    "Varalaxmi Sarathkumar",
+    "Rajkiran",
+    "Hari Krishnan (Tamil actor)",
+    "Ramdoss",
+    "Ganja Karuppu",
+    "Thennavan (actor)",
+    "Shanmugarajan",
+    "Hareesh Peradi",
+    "Ashwanth Ashokkumar",
+    "G. Gnanasambandam"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vishal; ensemble cast"
+  },
+  {
+   "id": "kaappaan-2019",
+   "title": "Kaappaan",
+   "year": 2019,
+   "category": "troll_washout",
+   "hero": "Suriya",
+   "answers": [
+    "kaappaan",
+    "kappan"
+   ],
+   "poster_query": "Kaappaan 2019 Suriya Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Mohanlal",
+    "Suriya",
+    "Arya (actor)",
+    "Sayyeshaa",
+    "Samuthirakani",
+    "Shamna Kasim",
+    "Boman Irani",
+    "Chirag Jani (actor)",
+    "Prem Kumar (Tamil actor)",
+    "D. R. K. Kiran",
+    "Uma (Tamil actress)",
+    "Thalaivasal Vijay"
+   ],
+   "found": true,
+   "wiki_notes": "lead Mohanlal"
+  },
+  {
+   "id": "darbar-2020",
+   "title": "Darbar",
+   "year": 2020,
+   "category": "troll_washout",
+   "hero": "Rajinikanth",
+   "answers": [
+    "darbar"
+   ],
+   "poster_query": "Darbar 2020 Rajinikanth Tamil movie poster",
+   "reception": "flop/disaster",
+   "verified_cast": [
+    "Rajinikanth",
+    "Nayanthara",
+    "Suniel Shetty",
+    "Nivetha Thomas",
+    "Yogi Babu",
+    "Prateik Babbar",
+    "Nawab Shah (actor)",
+    "Sriman (actor)",
+    "Dalip Tahil",
+    "Yograj Singh",
+    "Jatin Sarna",
+    "Adithya Shivpink"
+   ],
+   "found": true,
+   "wiki_notes": "lead Rajinikanth; ensemble cast"
+  },
+  {
+   "id": "kaththi-sandai-2016",
+   "title": "Kaththi Sandai",
+   "year": 2016,
+   "category": "troll_washout",
+   "hero": "Vishal",
+   "answers": [
+    "kaththi sandai",
+    "kathi sandai"
+   ],
+   "poster_query": "Kaththi Sandai 2016 Vishal Tamil movie poster",
+   "reception": "unknown",
+   "verified_cast": [
+    "Vishal (actor)",
+    "Tamannaah Bhatia",
+    "Jagapathi Babu",
+    "Vadivelu",
+    "Soori (actor)",
+    "Tarun Arora",
+    "Jayaprakash (actor)",
+    "Thennavan (actor)",
+    "Nirosha",
+    "Soundararaja",
+    "Aarthi (actress)",
+    "Thadi Balaji"
+   ],
+   "found": true,
+   "wiki_notes": "lead Vishal"
+  }
+ ]
+}

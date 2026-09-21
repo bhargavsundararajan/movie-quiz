@@ -1,0 +1,1242 @@
+{
+ "tanikella-bharani": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "dhamu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "prakash-raj": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ashish-vidyarthi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "trisha": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vijay": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nassar": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vadivelu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "prabhu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sonu-sood": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jyothika": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "rajinikanth": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sathyaraj": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "s-j-suryah": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "srikanth": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jiiva": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ileana-d-cruz": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "janagaraj": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vijayakumar": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "raghuvaran": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "anandaraj": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nagma": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "senthil": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "radha-ravi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ramya-krishnan": {
+  "verdict": "ok",
+  "issue": "refetched-wiki"
+ },
+ "soundarya": {
+  "verdict": "ok",
+  "issue": "refetched-wiki"
+ },
+ "sivaji-ganesan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "santhanam": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "cochin-haneefa": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "danny-denzongpa": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "karunas": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aishwarya-rai-bachchan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nagesh": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jaishankar": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "amrish-puri": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "arvind-swamy": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mammootty": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "delhi-ganesh": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nizhalgal-ravi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "m-sasikumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "shanmugarajan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "poo-ramu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "anandhi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "e-ramdoss": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "saravana-subbiah": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "dinesh": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sai-dheena": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "five-star-krishna": {
+  "verdict": "ok",
+  "issue": "user-url-tmdb"
+ },
+ "guru-somasundaram": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sampath-raj": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ravi-krishna": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jackie-shroff": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "siddharth": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "j-vignesh": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jangiri-madhumitha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "kalaiyarasan": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "lizzie-antony": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "raju-murugan": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "malvika-nair": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "junior-balaiah": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ashvin-raja": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sreejith-ravi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vikram-prabhu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vadivukkarasi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "anjali": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "anjali-ameer": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "azhagam-perumal": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sonia-agarwal": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sneha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "lal": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "natty-subramaniam": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "rajisha-vijayan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "singampuli": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ritika-singh": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "pandi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "pala-karuppiah": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "mahesh": {
+  "verdict": "ok",
+  "issue": "user-url-tmdb"
+ },
+ "sunu-lakshmi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ramachandran-durairaj": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ajay-ghosh": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "t-s-b-k-moulee": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "lakshmi-manchu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "elango-kumaravel": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vidharth": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "nagineedu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "aruldoss": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "poornima-bhagyaraj": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ilavarasu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "namo-narayana": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "darshan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "kali-prasad-mukherjee": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ramya-subramanian": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sanchana-natarajan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "anish-kuruvilla": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "parvathi-t": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "saravanan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "rukmini-vijayakumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "aditi-rao-hydari": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "deepa-shankar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "semmalar-annam": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "k-manikandan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "nivedhithaa-sathish": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "leela-samson": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "pandiarajan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "thiagarajan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "pratap-pothen": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "r-parthiban": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "k-bhagyaraj": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "prabhu-deva": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "tamannaah": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "supergood-subramani": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "saran-shakthi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ajmal-ameer": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "kaajal-pasupathi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "p-samuthirakani": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "swathi-reddy": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "alexx-o-nell": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "bala-singh": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "amy-jackson": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ma-ka-pa-anand": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "rj-vigneshkanth": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "parithabangal-gopisudhakar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "aathmika": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "hiphop-tamizha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "mime-gopi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "redin-kingsley": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vela-ramamoorthy": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "remya-nambessan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "brahmanandam": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nikki-galrani": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aadhi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "g-marimuthu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "thennavan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "reshmi-menon": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "abhimanyu-singh": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "bose-venkat": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "rakul-preet-singh": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ponvannan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ganja-karuppu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "priyamani": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ramesh-thilak": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "daniel-annie-pope": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "gayathrie-shankar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "niharika-konidela": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "gautham-ram-karthik": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "mayilsamy": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "devan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "r-sarathkumar": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "lakshmi-rai": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "raghava-lawrence": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "abhirami": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "rahman": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "bhanupriya": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "urvashi": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "vinodhini-vaidyanathan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "shalini": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "madhavan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vivek-prasanna": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "shraddha-srinath": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "kathir": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vijay-sethupathi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ganesh-venkatraman": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jayam-ravi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kaali-venkat": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "munishkanth": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "amala-paul": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vishnu-vishal": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mansoor-ali-khan": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "rj-balaji": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "m-s-bhaskar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "bobby-simha": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "karunakaran": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sanchita-shetty": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "mahanadi-shankar": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "sayaji-shinde": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "hansika-motwani": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "udhayanidhi-stalin": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "sri-natarajan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "madhusudhan-rao": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "regina-cassandra": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sundeep-kishan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sujatha-sivakumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "imman-annachi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sampath-ram": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "kishore-ds": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "t-rajendar": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "lollu-sabha-manohar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "nandita-swetha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "yogi-babu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ponnambalam": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "subbu-panchu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "chitra-lakshmanan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "arya": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jai": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "krishnamoorthy": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "meesai-rajendran": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "pooja-umashanker": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "g-m-kumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sethu": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "gopika": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "kanika": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "cheran": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "gajaraj": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "shaji-chen": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "raj-bharath": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "mysskin": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vijayalakshmi-feroz": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "prasanna": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "y-g-mahendran": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "ineya": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "m-n-nambiar": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "dev-gill": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jagapati-babu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "k-viswanath": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "deepika-padukone": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sudeep": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sridevi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "milind-soman": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "prathap-pothen": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "n-santhanam": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "aditya": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vishal": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "varalaxmi-sarathkumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "rajkiran": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "keerthy-suresh": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "thalaivasal-vijay": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "boman-irani": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "mohanlal": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sriman": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "suniel-shetty": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "prateik-babbar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "tarun-arora": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "samuthirakani": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "aishwarya-rajesh": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "vidyut-jammwal": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jayaram": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kajal-aggarwal": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "napoleon": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kovai-sarala": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "nithya-menen": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "samantha-ruth-prabhu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sathish": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jeeva-ravi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "neil-nitin-mukesh": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "tota-roy-chowdhury": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "john-vijay": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "adithya-menon": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "nayanthara": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ajith-kumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "thambi-ramaiah": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jagapathi-babu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "anikha-surendran": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "soori": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "rajendran": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "rahul-dev": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "lakshmi-menon": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "shruti-haasan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "george-maryan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "hareesh-peradi": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "arjun-das": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "harish-uthaman": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "narain": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "karthi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kitty": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vtv-ganesh": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "k-s-ravikumar": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "babu-antony": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "silambarasan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sukumari": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jayasudha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "swarnamalya": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "saranya-ponvannan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "kamal-haasan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sangili-murugan": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "revathi": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "goundamani": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sukanya": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "nedumudi-venu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "manisha-koirala": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "andrea-jeremiah": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "rahul-bose": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jaideep-ahlawat": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "pooja-kumar": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "manobala": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "sathyan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "pradeep-rawat": {
+  "verdict": "ok",
+  "issue": "refetched-wiki"
+ },
+ "riyaz-khan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "asin": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "suriya": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "devadarshini": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "daniel-balaji": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "jeevan": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vivek": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "anushka-shetty": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "charle": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sadha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "vikram": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "laila": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "sangeetha": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "aadukalam-naren": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "balaji-sakthivel": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "pasupathy": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "manju-warrier": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "dhanush": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "jayaprakash": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "aadukalam-murugadoss": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ },
+ "kishore": {
+  "verdict": "ok",
+  "issue": "user-ok"
+ },
+ "v-i-s-jayapalan": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "taapsee-pannu": {
+  "verdict": "ok",
+  "issue": ""
+ },
+ "ameer": {
+  "verdict": "ok",
+  "issue": "user-picked"
+ }
+}
